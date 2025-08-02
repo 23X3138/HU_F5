@@ -1,0 +1,2876 @@
+@prefix ex: <https://23X3138.github.io/HU_F5/3coins_output.ttl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+
+ex:CoCoLo新潟店 a ex:Shop ;
+    rdfs:label "CoCoLo新潟店" ;
+    schema1:address ex:新潟県新潟市中央区花園1-1-1JR新潟駅CoCoLo2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:EmioStyleBIGBOX高田馬場店 a ex:Shop ;
+    rdfs:label "EmioStyleBIGBOX高田馬場店" ;
+    schema1:address ex:東京都新宿区高田馬場1-35-3EmioStyleBIGBOX高田馬場1F ;
+    ex:shopType "3COINSEmioStyle" .
+
+ex:HEPFIVE店 a ex:Shop ;
+    rdfs:label "HEPFIVE店" ;
+    schema1:address ex:大阪府大阪市北区角田町5-15HEPFIVE6F ;
+    ex:shopType "3COINS" .
+
+ex:JR川口駅店 a ex:Shop ;
+    rdfs:label "JR川口駅店" ;
+    schema1:address ex:埼玉県川口市栄町3丁目1-24JR川口駅2F改札外 ;
+    ex:shopType "3COINS" .
+
+ex:JR新宿駅南口店 a ex:Shop ;
+    rdfs:label "JR新宿駅南口店" ;
+    schema1:address ex:東京都新宿区新宿3-38-1JR新宿駅構内南改札内 ;
+    ex:shopType "3COINS" .
+
+ex:KITOSHIMOICHI店 a ex:Shop ;
+    rdfs:label "KITOSHIMOICHI店" ;
+    schema1:address ex:奈良県吉野郡下市町善城664-1 ;
+    ex:shopType "3COINSTUDUKUSTORE" .
+
+ex:LINKSUMEDA店 a ex:Shop ;
+    rdfs:label "LINKSUMEDA店" ;
+    schema1:address ex:大阪府大阪市北区大深町1番1号ヨドバシ梅田タワーLINKSUMEDA3F ;
+    ex:shopType "3COINS" .
+
+ex:MARKISみなとみらい店 a ex:Shop ;
+    rdfs:label "MARKISみなとみらい店" ;
+    schema1:address ex:神奈川県横浜市西区みなとみらい3-5-1MARKISみなとみらい2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:MARKIS福岡ももち店 a ex:Shop ;
+    rdfs:label "MARKIS福岡ももち店" ;
+    schema1:address ex:福岡県福岡市中央区地行浜2丁目2番1号MARKIS福岡ももち3F ;
+    ex:shopType "3COINS" .
+
+ex:MOMOテラス六地蔵店 a ex:Shop ;
+    rdfs:label "MOMOテラス六地蔵店" ;
+    schema1:address ex:京都府京都市伏見区桃山町山ノ下32 ;
+    ex:shopType "3COINS+plus" .
+
+ex:THEOUTLETSHIROSHIMA店 a ex:Shop ;
+    rdfs:label "THEOUTLETSHIROSHIMA店" ;
+    schema1:address ex:広島県広島市佐伯区石内東4-1-1THEOUTLETSHIROSHIMA2階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:THEOUTLETSSHONANHIRATSUKA店 a ex:Shop ;
+    rdfs:label "THEOUTLETSSHONANHIRATSUKA店" ;
+    schema1:address ex:神奈川県平塚市大神8丁目1番1号THEOUTLETSSHONANHIRATSUKA1F1451区画 ;
+    ex:shopType "3COINS+plus" .
+
+ex:arrotSt.SANCHA店 a ex:Shop ;
+    rdfs:label "arrotSt.SANCHA店" ;
+    schema1:address <https://23X3138.github.io/HU_F5/3coins_output.ttl#東京都世田谷区太子堂4-1-1キャロットタワー1F「CarrotSt.SANCHA」> ;
+    ex:shopType "3COINSOOOPS!" .
+
+ex:minamoa広島店 a ex:Shop ;
+    rdfs:label "minamoa広島店" ;
+    schema1:address ex:広島県広島市南区松原町2番37号minamoa4階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:mozoワンダーシティ店 a ex:Shop ;
+    rdfs:label "mozoワンダーシティ店" ;
+    schema1:address ex:愛知県名古屋市西区二方町40mozoワンダーシティ3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:nonowa武蔵小金井店 a ex:Shop ;
+    rdfs:label "nonowa武蔵小金井店" ;
+    schema1:address ex:東京都小金井市本町5-1-20nonowa武蔵小金井WESTエリア1F ;
+    ex:shopType "3COINSOOOPS!" .
+
+ex:あべのキューズモール店 a ex:Shop ;
+    rdfs:label "あべのキューズモール店" ;
+    schema1:address ex:大阪府大阪市阿倍野区阿倍野筋1丁目6番1号あべのキューズモール1F ;
+    ex:shopType "3COINS" .
+
+ex:おやまゆうえんハーヴェストウォーク店 a ex:Shop ;
+    rdfs:label "おやまゆうえんハーヴェストウォーク店" ;
+    schema1:address ex:栃木県小山市喜沢1475 ;
+    ex:shopType "3COINS+plus" .
+
+ex:くずはモール店 a ex:Shop ;
+    rdfs:label "くずはモール店" ;
+    schema1:address ex:大阪府枚方市楠葉花園町15-1くずはモール本館2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:さいたま新都心店 a ex:Shop ;
+    rdfs:label "さいたま新都心店" ;
+    schema1:address ex:埼玉県さいたま市大宮区吉敷町4丁目コクーンシティ23Ｆ ;
+    ex:shopType "3COINS" .
+
+ex:さんすて福山店 a ex:Shop ;
+    rdfs:label "さんすて福山店" ;
+    schema1:address ex:広島県福山市三之丸町30-1サンステーションテラス福山第207-1号 ;
+    ex:shopType "3COINS" .
+
+ex:せんちゅうパル店 a ex:Shop ;
+    rdfs:label "せんちゅうパル店" ;
+    schema1:address ex:大阪府豊中市新千里東町１丁目3-229せんちゅうパル2F ;
+    ex:shopType "3COINS" .
+
+ex:そよら成田ニュータウン店 a ex:Shop ;
+    rdfs:label "そよら成田ニュータウン店" ;
+    schema1:address ex:千葉県成田市赤坂2丁目1-10そよら成田ニュータウン2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ならファミリー店 a ex:Shop ;
+    rdfs:label "ならファミリー店" ;
+    schema1:address ex:奈良県奈良市西大寺東町2-4-1ならファミリー3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:なんなんタウン店 a ex:Shop ;
+    rdfs:label "なんなんタウン店" ;
+    schema1:address ex:大阪府大阪市中央区難波5丁目なんなんタウン1号 ;
+    ex:shopType "3COINS+plus" .
+
+ex:なんばCITY店 a ex:Shop ;
+    rdfs:label "なんばCITY店" ;
+    schema1:address ex:大阪府大阪市中央区難波5-1-60なんばCITY本館地下2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:なんばウォーク店 a ex:Shop ;
+    rdfs:label "なんばウォーク店" ;
+    schema1:address ex:大阪府大阪市中央区難波1丁目虹のまち3-2号 ;
+    ex:shopType "3COINS" .
+
+ex:ひたちなかファッションクルーズ店 a ex:Shop ;
+    rdfs:label "ひたちなかファッションクルーズ店" ;
+    schema1:address ex:茨城県ひたちなか市新光町35ニューポートひたちなかファッションクルーズ1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめが丘ソラトス店 a ex:Shop ;
+    rdfs:label "ゆめが丘ソラトス店" ;
+    schema1:address ex:神奈川県横浜市泉区ゆめが丘31番地2F203 ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウンはません店 a ex:Shop ;
+    rdfs:label "ゆめタウンはません店" ;
+    schema1:address ex:熊本県熊本市南区田井島1丁目2番1号ゆめタウンはません1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウンみゆき店 a ex:Shop ;
+    rdfs:label "ゆめタウンみゆき店" ;
+    schema1:address ex:広島県広島市南区宇品西6丁目7-14ゆめタウンみゆき1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン下松店 a ex:Shop ;
+    rdfs:label "ゆめタウン下松店" ;
+    schema1:address ex:山口県下松市中央町21-3ゆめタウン下松3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン丸亀店 a ex:Shop ;
+    rdfs:label "ゆめタウン丸亀店" ;
+    schema1:address ex:香川県丸亀市新田町150ゆめタウン丸亀1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン久留米店 a ex:Shop ;
+    rdfs:label "ゆめタウン久留米店" ;
+    schema1:address ex:福岡県久留米市新合川1-2-1ゆめタウン久留米1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン佐賀 a ex:Shop ;
+    rdfs:label "ゆめタウン佐賀" ;
+    schema1:address ex:佐賀県佐賀市兵庫北5丁目14番1号ゆめタウン佐賀1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン光の森店 a ex:Shop ;
+    rdfs:label "ゆめタウン光の森店" ;
+    schema1:address ex:熊本県菊池郡菊陽町光の森7丁目33番地1ゆめタウン光の森2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン出雲店 a ex:Shop ;
+    rdfs:label "ゆめタウン出雲店" ;
+    schema1:address ex:島根県出雲市大塚町650-1東館2階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン博多店 a ex:Shop ;
+    rdfs:label "ゆめタウン博多店" ;
+    schema1:address ex:福岡県福岡市東区東浜1-1-1ゆめタウン博多1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン夢彩都店 a ex:Shop ;
+    rdfs:label "ゆめタウン夢彩都店" ;
+    schema1:address ex:長崎県長崎市元船町10-1ゆめタウン夢彩都1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン山口店 a ex:Shop ;
+    rdfs:label "ゆめタウン山口店" ;
+    schema1:address ex:山口県山口市大内千坊6丁目9-1ゆめタウン山口1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン広島店 a ex:Shop ;
+    rdfs:label "ゆめタウン広島店" ;
+    schema1:address ex:広島県広島市南区皆実町2-8-17ゆめタウン広島1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン廿日市店 a ex:Shop ;
+    rdfs:label "ゆめタウン廿日市店" ;
+    schema1:address ex:広島県廿日市市下平良2丁目2番1号ゆめタウン廿日市1F区画161 ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン徳島店 a ex:Shop ;
+    rdfs:label "ゆめタウン徳島店" ;
+    schema1:address ex:徳島県板野郡藍住町奥野字東中須88-1ゆめタウン徳島2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン武雄店 a ex:Shop ;
+    rdfs:label "ゆめタウン武雄店" ;
+    schema1:address ex:佐賀県武雄市武雄町大字武雄49921F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン福山店 a ex:Shop ;
+    rdfs:label "ゆめタウン福山店" ;
+    schema1:address ex:広島県福山市入船町3-1-60ゆめタウン福山1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン行橋店 a ex:Shop ;
+    rdfs:label "ゆめタウン行橋店" ;
+    schema1:address ex:福岡県行橋市西宮市3丁目8-1ゆめタウン行橋1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン飯塚店 a ex:Shop ;
+    rdfs:label "ゆめタウン飯塚店" ;
+    schema1:address ex:福岡県飯塚市菰田西3-6-1ゆめタウン飯塚2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゆめタウン高松店 a ex:Shop ;
+    rdfs:label "ゆめタウン高松店" ;
+    schema1:address ex:香川県高松市三条町608-1ゆめタウン高松2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ららぽーとEXPOCITY店 a ex:Shop ;
+    rdfs:label "ららぽーとEXPOCITY店" ;
+    schema1:address ex:大阪府吹田市千里万博公園2-1ららぽーとEXPOCITY1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ららぽーとTOKYO-BAY店 a ex:Shop ;
+    rdfs:label "ららぽーとTOKYO-BAY店" ;
+    schema1:address ex:千葉県船橋市浜町2-1-1ららぽーとTOKYO-BAY西館1F ;
+    ex:shopType "3COINS" .
+
+ex:ららぽーと名古屋みなとアクルス店 a ex:Shop ;
+    rdfs:label "ららぽーと名古屋みなとアクルス店" ;
+    schema1:address ex:愛知県名古屋市港区港明2丁目3番2号ららぽーと名古屋みなとアクルス1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ららぽーと和泉店 a ex:Shop ;
+    rdfs:label "ららぽーと和泉店" ;
+    schema1:address ex:大阪府和泉市あゆみ野4-4-7ららぽーと和泉2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ららぽーと堺店 a ex:Shop ;
+    rdfs:label "ららぽーと堺店" ;
+    schema1:address ex:大阪府堺市美原区黒山22-1ららぽーと堺3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ららぽーと安城店 a ex:Shop ;
+    rdfs:label "ららぽーと安城店" ;
+    schema1:address ex:愛知県安城市大東町9-301階16900 ;
+    ex:shopType "3COINS+plus" .
+
+ex:ららぽーと富士見店 a ex:Shop ;
+    rdfs:label "ららぽーと富士見店" ;
+    schema1:address ex:埼玉県富士見市山室1-1313ららぽーと富士見1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ららぽーと愛知東郷店 a ex:Shop ;
+    rdfs:label "ららぽーと愛知東郷店" ;
+    schema1:address <https://23X3138.github.io/HU_F5/3coins_output.ttl#愛知県愛知郡東郷町東郷中央土地区画整理事業62街区1・3ららぽーと愛知東郷2F> ;
+    ex:shopType "3COINS+plus" .
+
+ex:ららぽーと新三郷店 a ex:Shop ;
+    rdfs:label "ららぽーと新三郷店" ;
+    schema1:address ex:埼玉県三郷市新三郷ららシティ3-1-1ららぽーと新三郷 ;
+    ex:shopType "3COINS" .
+
+ex:ららぽーと柏の葉店 a ex:Shop ;
+    rdfs:label "ららぽーと柏の葉店" ;
+    schema1:address ex:千葉県柏市若柴175ららぽーと柏の葉1F ;
+    ex:shopType "3COINS" .
+
+ex:ららぽーと横浜店 a ex:Shop ;
+    rdfs:label "ららぽーと横浜店" ;
+    schema1:address ex:神奈川県横浜市都筑区池辺町4035-1ららぽーと横浜3F ;
+    ex:shopType "3COINS" .
+
+ex:ららぽーと沼津店 a ex:Shop ;
+    rdfs:label "ららぽーと沼津店" ;
+    schema1:address ex:静岡県沼津市東椎路字東荒301-3ららぽーと沼津1F ;
+    ex:shopType "3COINS" .
+
+ex:ららぽーと海老名店 a ex:Shop ;
+    rdfs:label "ららぽーと海老名店" ;
+    schema1:address ex:神奈川県海老名市扇町13-1ららぽーと海老名3F ;
+    ex:shopType "3COINS" .
+
+ex:ららぽーと湘南平塚店 a ex:Shop ;
+    rdfs:label "ららぽーと湘南平塚店" ;
+    schema1:address ex:神奈川県平塚市天沼10-1ららぽーと湘南平塚1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ららぽーと甲子園店 a ex:Shop ;
+    rdfs:label "ららぽーと甲子園店" ;
+    schema1:address ex:兵庫県西宮市甲子園八番町1-100ららぽーと甲子園リバーウォークモール1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ららぽーと磐田店 a ex:Shop ;
+    rdfs:label "ららぽーと磐田店" ;
+    schema1:address ex:静岡県磐田市高見丘1200ららぽーと磐田1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ららぽーと福岡店 a ex:Shop ;
+    rdfs:label "ららぽーと福岡店" ;
+    schema1:address ex:福岡県福岡市博多区那珂6丁目23番1号ららぽーと福岡1階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:ららぽーと立川立飛店 a ex:Shop ;
+    rdfs:label "ららぽーと立川立飛店" ;
+    schema1:address ex:東京都立川市泉町935-1ららぽーと立川立飛1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ららぽーと門真店 a ex:Shop ;
+    rdfs:label "ららぽーと門真店" ;
+    schema1:address ex:大阪府門真市松生町1-11ららぽーと門真1F17000 ;
+    ex:shopType "3COINS+plus" .
+
+ex:アクアウォーク大垣店 a ex:Shop ;
+    rdfs:label "アクアウォーク大垣店" ;
+    schema1:address ex:岐阜県大垣市林町6丁目80番地21アクアウォーク大垣1F ;
+    ex:shopType "3COINS" .
+
+ex:アステ川西店 a ex:Shop ;
+    rdfs:label "アステ川西店" ;
+    schema1:address ex:兵庫県川西市栄町25-1 ;
+    ex:shopType "3COINS+plus" .
+
+ex:アズ熊谷店 a ex:Shop ;
+    rdfs:label "アズ熊谷店" ;
+    schema1:address ex:埼玉県熊谷市筑波2-115アズ熊谷2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アトレマルヒロ川越店 a ex:Shop ;
+    rdfs:label "アトレマルヒロ川越店" ;
+    schema1:address ex:埼玉県川越市脇田町105番地アトレマルヒロ川越３F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アトレヴィ三鷹店 a ex:Shop ;
+    rdfs:label "アトレヴィ三鷹店" ;
+    schema1:address ex:東京都三鷹市下連雀3丁目46-4アトレヴィ三鷹4F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アトレ亀戸店 a ex:Shop ;
+    rdfs:label "アトレ亀戸店" ;
+    schema1:address ex:東京都江東区亀戸5-1-1アトレ亀戸4F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アトレ吉祥寺店 a ex:Shop ;
+    rdfs:label "アトレ吉祥寺店" ;
+    schema1:address ex:東京都武蔵野市吉祥寺南町1-1-24アトレ吉祥寺東館B1F ;
+    ex:shopType "3COINS" .
+
+ex:アトレ大井町店 a ex:Shop ;
+    rdfs:label "アトレ大井町店" ;
+    schema1:address ex:東京都品川区大井1-2-1アトレ大井町3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アトレ大森店 a ex:Shop ;
+    rdfs:label "アトレ大森店" ;
+    schema1:address ex:東京都大田区大森北1-6-16アトレ大森12F ;
+    ex:shopType "3COINS" .
+
+ex:アトレ川崎店 a ex:Shop ;
+    rdfs:label "アトレ川崎店" ;
+    schema1:address ex:神奈川県川崎市川崎区駅前本町26-1アトレ川崎1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アトレ新浦安店 a ex:Shop ;
+    rdfs:label "アトレ新浦安店" ;
+    schema1:address ex:千葉県浦安市入船1-1-1アトレ新浦安1F ;
+    ex:shopType "3COINS" .
+
+ex:アトレ目黒店 a ex:Shop ;
+    rdfs:label "アトレ目黒店" ;
+    schema1:address ex:東京都品川区上大崎2丁目16-9アトレ目黒13F ;
+    ex:shopType "3COINS" .
+
+ex:アトレ秋葉原店 a ex:Shop ;
+    rdfs:label "アトレ秋葉原店" ;
+    schema1:address ex:東京都千代田区外神田1-17-6アトレ秋葉原13F ;
+    ex:shopType "3COINS" .
+
+ex:アピタタウン稲沢店 a ex:Shop ;
+    rdfs:label "アピタタウン稲沢店" ;
+    schema1:address ex:愛知県稲沢市天池五反田町1番地アピタタウン稲沢1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アミュエスト博多店 a ex:Shop ;
+    rdfs:label "アミュエスト博多店" ;
+    schema1:address ex:福岡県福岡市博多区博多駅中央街1-1アミュエスト1F ;
+    ex:shopType "3COINS" .
+
+ex:アミュプラザおおいた店 a ex:Shop ;
+    rdfs:label "アミュプラザおおいた店" ;
+    schema1:address ex:大分県大分市要町1-14アミュプラザおおいた3F ;
+    ex:shopType "3COINS" .
+
+ex:アミュプラザ小倉店 a ex:Shop ;
+    rdfs:label "アミュプラザ小倉店" ;
+    schema1:address ex:福岡県北九州市小倉北区浅野1丁目1番1号アミュプラザ小倉西館5F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アミュプラザ鹿児島店 a ex:Shop ;
+    rdfs:label "アミュプラザ鹿児島店" ;
+    schema1:address ex:鹿児島県鹿児島市中央町1-1アミュプラザ鹿児島本館1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アリオ上田店 a ex:Shop ;
+    rdfs:label "アリオ上田店" ;
+    schema1:address ex:長野県上田市天神3-5-1アリオ上田1F ;
+    ex:shopType "3COINS" .
+
+ex:アリオ亀有店 a ex:Shop ;
+    rdfs:label "アリオ亀有店" ;
+    schema1:address ex:東京都葛飾区亀有3-49-3アリオ亀有3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アリオ八尾店 a ex:Shop ;
+    rdfs:label "アリオ八尾店" ;
+    schema1:address ex:大阪府八尾市光町2-3アリオ八尾2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アリオ北砂店 a ex:Shop ;
+    rdfs:label "アリオ北砂店" ;
+    schema1:address ex:東京都江東区北砂2-17-1アリオモール1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アリオ市原店 a ex:Shop ;
+    rdfs:label "アリオ市原店" ;
+    schema1:address ex:千葉県市原市更級4-3-2アリオ市原1Ｆ ;
+    ex:shopType "3COINS+plus" .
+
+ex:アリオ橋本店 a ex:Shop ;
+    rdfs:label "アリオ橋本店" ;
+    schema1:address ex:神奈川県相模原市緑区大山町1-22アリオ橋本アリオモール1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アリオ蘇我店 a ex:Shop ;
+    rdfs:label "アリオ蘇我店" ;
+    schema1:address ex:千葉県千葉市中央区川崎町52-7アリオ蘇我1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アリオ鳳店 a ex:Shop ;
+    rdfs:label "アリオ鳳店" ;
+    schema1:address ex:大阪府堺市西区鳳南町3丁目199番地12アリオ鳳1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:アルカキット錦糸町店 a ex:Shop ;
+    rdfs:label "アルカキット錦糸町店" ;
+    schema1:address ex:東京都墨田区錦糸2-2-1アルカキット錦糸町3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンタウン姶良店 a ex:Shop ;
+    rdfs:label "イオンタウン姶良店" ;
+    schema1:address <https://23X3138.github.io/HU_F5/3coins_output.ttl#鹿児島県姶良市西餅田264‐1イオンタウン姶良西街区2F> ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンタウン茨木太田店 a ex:Shop ;
+    rdfs:label "イオンタウン茨木太田店" ;
+    schema1:address ex:大阪府茨木市城の前町2番地1イオンタウン茨木太田本館1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモールKYOTO店 a ex:Shop ;
+    rdfs:label "イオンモールKYOTO店" ;
+    schema1:address ex:京都府京都市南区西九条鳥居口町1イオンモールKYOTO3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモールいわき小名浜店 a ex:Shop ;
+    rdfs:label "イオンモールいわき小名浜店" ;
+    schema1:address ex:福島県いわき市小名浜字辰巳町79イオンモールいわき小名浜3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモールかほく店 a ex:Shop ;
+    rdfs:label "イオンモールかほく店" ;
+    schema1:address ex:石川県かほく市内日角夕25イオンモールかほく1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモールつくば店 a ex:Shop ;
+    rdfs:label "イオンモールつくば店" ;
+    schema1:address ex:茨城県つくば市稲岡66-1イオンモールつくば3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモールりんくう泉南店 a ex:Shop ;
+    rdfs:label "イオンモールりんくう泉南店" ;
+    schema1:address ex:大阪府泉南市りんくう南浜3-12イオンモールりんくう泉南2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモールナゴヤドーム前店 a ex:Shop ;
+    rdfs:label "イオンモールナゴヤドーム前店" ;
+    schema1:address ex:愛知県名古屋市東区矢田南4-102-3イオンモールナゴヤドーム前2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール三光店 a ex:Shop ;
+    rdfs:label "イオンモール三光店" ;
+    schema1:address ex:大分県中津市三佐知1032イオンモール三光1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール上尾店 a ex:Shop ;
+    rdfs:label "イオンモール上尾店" ;
+    schema1:address ex:埼玉県上尾市愛石3-8-1イオンモール上尾１F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール下田店 a ex:Shop ;
+    rdfs:label "イオンモール下田店" ;
+    schema1:address ex:青森県上北郡おいらせ町中野平40-1イオンモール下田1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール与野店 a ex:Shop ;
+    rdfs:label "イオンモール与野店" ;
+    schema1:address ex:埼玉県さいたま市中央区本町西5-2-9イオンモール与野1F ;
+    ex:shopType "3COINS" .
+
+ex:イオンモール久御山店 a ex:Shop ;
+    rdfs:label "イオンモール久御山店" ;
+    schema1:address ex:京都府久世郡久御山町森南大内156イオンモール久御山1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール京都五条店 a ex:Shop ;
+    rdfs:label "イオンモール京都五条店" ;
+    schema1:address ex:京都府京都市右京区西院追分町25-1イオンモール京都五条1Ｆ ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール京都桂川店 a ex:Shop ;
+    rdfs:label "イオンモール京都桂川店" ;
+    schema1:address ex:京都府京都市南区久世高田町376番1イオンモール京都桂川3F ;
+    ex:shopType "3COINS" .
+
+ex:イオンモール伊丹店 a ex:Shop ;
+    rdfs:label "イオンモール伊丹店" ;
+    schema1:address ex:兵庫県伊丹市藤ノ木1-1-1イオンモール伊丹3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール佐野新都市店 a ex:Shop ;
+    rdfs:label "イオンモール佐野新都市店" ;
+    schema1:address ex:栃木県佐野市高萩町1324-1イオンモール佐野新都市1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール倉敷店 a ex:Shop ;
+    rdfs:label "イオンモール倉敷店" ;
+    schema1:address ex:岡山県倉敷市水江1イオンモール倉敷2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール八千代緑が丘店 a ex:Shop ;
+    rdfs:label "イオンモール八千代緑が丘店" ;
+    schema1:address ex:千葉県八千代市緑が丘2-1-3イオンモール八千代緑が丘2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール八幡東店 a ex:Shop ;
+    rdfs:label "イオンモール八幡東店" ;
+    schema1:address ex:福岡県北九州市八幡東区東田3-2-102イオンモール八幡東1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール加西北条店 a ex:Shop ;
+    rdfs:label "イオンモール加西北条店" ;
+    schema1:address ex:兵庫県加西市北条町北条308-1 ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール北戸田店 a ex:Shop ;
+    rdfs:label "イオンモール北戸田店" ;
+    schema1:address ex:埼玉県戸田市美女木東1-3-1イオンモール北戸田2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール千葉ニュータウン店 a ex:Shop ;
+    rdfs:label "イオンモール千葉ニュータウン店" ;
+    schema1:address ex:千葉県印西市中央区北3-1-1イオン1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール各務原インター店 a ex:Shop ;
+    rdfs:label "イオンモール各務原インター店" ;
+    schema1:address ex:岐阜県各務原市那加萱場町3-8イオンモール各務原インター3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール名取店 a ex:Shop ;
+    rdfs:label "イオンモール名取店" ;
+    schema1:address ex:宮城県名取市杜せきのした5-3-1イオンモール名取2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール名古屋茶屋店 a ex:Shop ;
+    rdfs:label "イオンモール名古屋茶屋店" ;
+    schema1:address ex:愛知県名古屋市港区西茶屋2丁目11イオンモール名古屋茶屋店1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール和歌山店 a ex:Shop ;
+    rdfs:label "イオンモール和歌山店" ;
+    schema1:address ex:和歌山県和歌山市ふじと台23番地イオンモール和歌山1F ;
+    ex:shopType "3COINS" .
+
+ex:イオンモール四日市北店 a ex:Shop ;
+    rdfs:label "イオンモール四日市北店" ;
+    schema1:address ex:三重県四日市市富州原町2番40号イオンモール四日市北1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール四條畷店 a ex:Shop ;
+    rdfs:label "イオンモール四條畷店" ;
+    schema1:address ex:大阪府四條畷市砂4-3-2イオンモール四條畷3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール土岐 a ex:Shop ;
+    rdfs:label "イオンモール土岐" ;
+    schema1:address ex:岐阜県土岐市土岐津町土岐口1372-1イオンモール土岐1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール土浦店 a ex:Shop ;
+    rdfs:label "イオンモール土浦店" ;
+    schema1:address ex:茨城県土浦市上高津367番地イオンモール土浦３F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール堺北花田店 a ex:Shop ;
+    rdfs:label "イオンモール堺北花田店" ;
+    schema1:address ex:大阪府堺市北区東浅香山町4-1-12イオンモール堺北花田1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール堺鉄砲町店 a ex:Shop ;
+    rdfs:label "イオンモール堺鉄砲町店" ;
+    schema1:address ex:大阪府堺市堺区鉄砲町1番地イオンモール堺鉄砲町1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール大和郡山店 a ex:Shop ;
+    rdfs:label "イオンモール大和郡山店" ;
+    schema1:address ex:奈良県大和郡山市下三橋町741イオンモール大和郡山2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール大日店 a ex:Shop ;
+    rdfs:label "イオンモール大日店" ;
+    schema1:address ex:大阪府守口市大日東町1-18イオンモール大日2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール大曲店 a ex:Shop ;
+    rdfs:label "イオンモール大曲店" ;
+    schema1:address ex:秋田県大仙市和合字坪立177番地イオンモール大曲1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール大阪ドームシティ店 a ex:Shop ;
+    rdfs:label "イオンモール大阪ドームシティ店" ;
+    schema1:address ex:大阪府大阪市西区千代崎三丁目13番1イオンモール大阪ドームシティ2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール大高店 a ex:Shop ;
+    rdfs:label "イオンモール大高店" ;
+    schema1:address ex:愛知県名古屋市緑区南大高2丁目450番地イオンモール大高1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール天童店 a ex:Shop ;
+    rdfs:label "イオンモール天童店" ;
+    schema1:address ex:山形県天童市芳賀タウン北4-1-1イオンモール天童1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール太田店 a ex:Shop ;
+    rdfs:label "イオンモール太田店" ;
+    schema1:address ex:群馬県太田市石原町81番地イオンモール太田2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール姫路大津店 a ex:Shop ;
+    rdfs:label "イオンモール姫路大津店" ;
+    schema1:address ex:兵庫県姫路市大津区大津町2丁目5番イオンモール姫路大津1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール宮崎店 a ex:Shop ;
+    rdfs:label "イオンモール宮崎店" ;
+    schema1:address ex:宮崎県宮崎市新別府町江口862-1イオンモール宮崎2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール山形南店 a ex:Shop ;
+    rdfs:label "イオンモール山形南店" ;
+    schema1:address ex:山形県山形市若宮3-7-8イオンモール山形南1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール岡山店 a ex:Shop ;
+    rdfs:label "イオンモール岡山店" ;
+    schema1:address ex:岡山県岡山市北区下石井1-2-1イオンモール岡山3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール岡崎店 a ex:Shop ;
+    rdfs:label "イオンモール岡崎店" ;
+    schema1:address ex:愛知県岡崎市戸崎町字外山38-5イオンモール岡崎3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール川口前川店 a ex:Shop ;
+    rdfs:label "イオンモール川口前川店" ;
+    schema1:address ex:埼玉県川口市前川1-1-11イオンモール川口前川1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール川口店 a ex:Shop ;
+    rdfs:label "イオンモール川口店" ;
+    schema1:address ex:埼玉県川口市安行領根岸3180番地イオンモール川口２F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール幕張新都心店 a ex:Shop ;
+    rdfs:label "イオンモール幕張新都心店" ;
+    schema1:address ex:千葉県千葉市美浜区豊砂1-1イオンモール幕張新都心グランドモール3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール広島府中店 a ex:Shop ;
+    rdfs:label "イオンモール広島府中店" ;
+    schema1:address ex:広島県安芸郡府中町大須2-1-1イオンモール広島府中2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール広島祇園店 a ex:Shop ;
+    rdfs:label "イオンモール広島祇園店" ;
+    schema1:address ex:広島県広島市安佐南区祇園3丁目2-1イオンモール広島祇園1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール成田店 a ex:Shop ;
+    rdfs:label "イオンモール成田店" ;
+    schema1:address ex:千葉県成田市ウイング土屋24イオンモール成田1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール新利府南館店 a ex:Shop ;
+    rdfs:label "イオンモール新利府南館店" ;
+    schema1:address ex:宮城県宮城郡利府町新中道3丁目1-1イオンモール新利府南館3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール新小松店 a ex:Shop ;
+    rdfs:label "イオンモール新小松店" ;
+    schema1:address ex:石川県小松市清六町315イオンモール新小松2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール新居浜店 a ex:Shop ;
+    rdfs:label "イオンモール新居浜店" ;
+    schema1:address ex:愛媛県新居浜市前田町8-8イオンモール新居浜1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール新潟亀田インター店 a ex:Shop ;
+    rdfs:label "イオンモール新潟亀田インター店" ;
+    schema1:address ex:新潟県新潟市江南区下早通柳田1-1-1イオンモール新潟亀田インター3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール日の出店 a ex:Shop ;
+    rdfs:label "イオンモール日の出店" ;
+    schema1:address ex:東京都西多摩郡日の出町平井字三吉野桜木237-3イオンモール日の出2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール日吉津店 a ex:Shop ;
+    rdfs:label "イオンモール日吉津店" ;
+    schema1:address ex:鳥取県西伯郡日吉津村日吉津1160-1イオンモール日吉津西館1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール日根野店 a ex:Shop ;
+    rdfs:label "イオンモール日根野店" ;
+    schema1:address ex:大阪府泉佐野市日根野2496-1イオンモール日根野1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール旭川西店 a ex:Shop ;
+    rdfs:label "イオンモール旭川西店" ;
+    schema1:address ex:北海道旭川市緑町23丁目2161-3イオンモール旭川西2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール春日部店 a ex:Shop ;
+    rdfs:label "イオンモール春日部店" ;
+    schema1:address ex:埼玉県春日部市下柳420-1イオンモール春日部1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール木更津店 a ex:Shop ;
+    rdfs:label "イオンモール木更津店" ;
+    schema1:address ex:千葉県木更津市築地1-4イオンモール木更津1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール木曽川店 a ex:Shop ;
+    rdfs:label "イオンモール木曽川店" ;
+    schema1:address ex:愛知県一宮市木曽川町黒田字南八ツケ池25-1イオンモール木曽川1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール札幌発寒店 a ex:Shop ;
+    rdfs:label "イオンモール札幌発寒店" ;
+    schema1:address ex:北海道札幌市西区発寒8条12丁目1番地イオンモール札幌発寒2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール札幌苗穂店 a ex:Shop ;
+    rdfs:label "イオンモール札幌苗穂店" ;
+    schema1:address ex:北海道札幌市東区東苗穂2条3丁目1-1イオンモール札幌苗穂1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール東員店 a ex:Shop ;
+    rdfs:label "イオンモール東員店" ;
+    schema1:address ex:三重県員弁郡東員町長深字築田510-1イオンモール東員1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール松本店 a ex:Shop ;
+    rdfs:label "イオンモール松本店" ;
+    schema1:address ex:長野県松本市中央4-9-51イオンモール松本晴庭1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール柏店 a ex:Shop ;
+    rdfs:label "イオンモール柏店" ;
+    schema1:address ex:千葉県柏市豊町2-5-25イオンモール柏1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール橿原店 a ex:Shop ;
+    rdfs:label "イオンモール橿原店" ;
+    schema1:address ex:奈良県橿原市曲川町7-20-1302イオンモール橿原3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール水戸内原店 a ex:Shop ;
+    rdfs:label "イオンモール水戸内原店" ;
+    schema1:address ex:茨城県水戸市内原2丁目1番地イオンモール水戸内原3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール沖縄ライカム店 a ex:Shop ;
+    rdfs:label "イオンモール沖縄ライカム店" ;
+    schema1:address ex:沖縄県中頭郡北中城村字ライカム1番地イオンモール沖縄ライカム1Ｆ ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール津南店 a ex:Shop ;
+    rdfs:label "イオンモール津南店" ;
+    schema1:address ex:三重県津市高茶屋小森町145イオンモール津南3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール津田沼店 a ex:Shop ;
+    rdfs:label "イオンモール津田沼店" ;
+    schema1:address ex:千葉県習志野市津田沼1丁目23-1イオンモール津田沼２F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール浜松市野店 a ex:Shop ;
+    rdfs:label "イオンモール浜松市野店" ;
+    schema1:address ex:静岡県浜松市東区天王町字諏訪1981-3イオンモール浜松市野2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール浜松志都呂店 a ex:Shop ;
+    rdfs:label "イオンモール浜松志都呂店" ;
+    schema1:address ex:静岡県浜松市中央区志都呂二丁目37番1号イオンモール浜松志都呂1階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール浦和美園店 a ex:Shop ;
+    rdfs:label "イオンモール浦和美園店" ;
+    schema1:address ex:埼玉県さいたま市緑区大門3710イオンモール浦和美園1F ;
+    ex:shopType "3COINS" .
+
+ex:イオンモール熊本店 a ex:Shop ;
+    rdfs:label "イオンモール熊本店" ;
+    schema1:address ex:熊本県上益城郡嘉島町大字上島字長池2232イオンモール熊本1F ;
+    ex:shopType "3COINS" .
+
+ex:イオンモール熱田店 a ex:Shop ;
+    rdfs:label "イオンモール熱田店" ;
+    schema1:address ex:愛知県名古屋市熱田区六野一丁目2番11号イオンモール熱田1階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール甲府昭和店 a ex:Shop ;
+    rdfs:label "イオンモール甲府昭和店" ;
+    schema1:address ex:山梨県中巨摩郡昭和町飯喰1505-1イオンモール甲府昭和3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール白山店 a ex:Shop ;
+    rdfs:label "イオンモール白山店" ;
+    schema1:address ex:石川県白山市横江町5001イオンモール白山3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール盛岡南店 a ex:Shop ;
+    rdfs:label "イオンモール盛岡南店" ;
+    schema1:address ex:岩手県盛岡市本宮7-1-1イオンモール盛岡南1F ;
+    ex:shopType "3COINS" .
+
+ex:イオンモール直方店 a ex:Shop ;
+    rdfs:label "イオンモール直方店" ;
+    schema1:address ex:福岡県直方市湯野原2-1-1イオンモール直方1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール石巻店 a ex:Shop ;
+    rdfs:label "イオンモール石巻店" ;
+    schema1:address ex:宮城県石巻市茜平4丁目104番地1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール神戸北店 a ex:Shop ;
+    rdfs:label "イオンモール神戸北店" ;
+    schema1:address ex:兵庫県神戸市北区上津台8-1-1イオンモール神戸北2F208 ;
+    ex:shopType "3COINS" .
+
+ex:イオンモール福岡店 a ex:Shop ;
+    rdfs:label "イオンモール福岡店" ;
+    schema1:address ex:福岡県糟屋郡粕屋町大字酒殿字老ノ木192-1イオンモール福岡1Fウエストコート ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール福津店 a ex:Shop ;
+    rdfs:label "イオンモール福津店" ;
+    schema1:address ex:福岡県福津市日蒔野6-16-1イオンモール福津3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール秋田店 a ex:Shop ;
+    rdfs:label "イオンモール秋田店" ;
+    schema1:address ex:秋田県秋田市御所野地蔵田1-1-1イオンモール秋田1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール筑紫野店 a ex:Shop ;
+    rdfs:label "イオンモール筑紫野店" ;
+    schema1:address ex:福岡県筑紫野市立明寺434-1イオンモール筑紫野2F ;
+    ex:shopType "3COINS" .
+
+ex:イオンモール綾川店 a ex:Shop ;
+    rdfs:label "イオンモール綾川店" ;
+    schema1:address ex:香川県綾歌郡綾川町萱原822-1イオンモール綾川1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール羽生店 a ex:Shop ;
+    rdfs:label "イオンモール羽生店" ;
+    schema1:address ex:埼玉県羽生市川崎2-281-3イオンモール羽生3F-357 ;
+    ex:shopType "3COINS" .
+
+ex:イオンモール茨木店 a ex:Shop ;
+    rdfs:label "イオンモール茨木店" ;
+    schema1:address ex:大阪府茨木市松ケ本町8-30イオンモール茨木1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール草津店 a ex:Shop ;
+    rdfs:label "イオンモール草津店" ;
+    schema1:address ex:滋賀県草津市新浜町300イオンモール草津3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール豊川店 a ex:Shop ;
+    rdfs:label "イオンモール豊川店" ;
+    schema1:address ex:愛知県豊川市白鳥町兎足1-16イオンモール豊川3F区画351 ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール鈴鹿店 a ex:Shop ;
+    rdfs:label "イオンモール鈴鹿店" ;
+    schema1:address ex:三重県鈴鹿市庄野羽山4-1-2イオンモール鈴鹿2F ;
+    ex:shopType "3COINS" .
+
+ex:イオンモール高岡店 a ex:Shop ;
+    rdfs:label "イオンモール高岡店" ;
+    schema1:address ex:富山県高岡市下伏間江383イオンモール高岡東館2階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール高崎店 a ex:Shop ;
+    rdfs:label "イオンモール高崎店" ;
+    schema1:address ex:群馬県高崎市棟高町1400番地イオンモール高崎3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール高知店 a ex:Shop ;
+    rdfs:label "イオンモール高知店" ;
+    schema1:address ex:高知県高知市秦南町1-4-8イオンモール高知2Ｆ ;
+    ex:shopType "3COINS" .
+
+ex:イオンモール鳥取北店 a ex:Shop ;
+    rdfs:label "イオンモール鳥取北店" ;
+    schema1:address ex:鳥取県鳥取市晩稲348イオンモール鳥取北1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール鶴見緑地店 a ex:Shop ;
+    rdfs:label "イオンモール鶴見緑地店" ;
+    schema1:address ex:大阪府大阪市鶴見区鶴見4-17-1イオンモール鶴見緑地2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンモール鹿児島店 a ex:Shop ;
+    rdfs:label "イオンモール鹿児島店" ;
+    schema1:address ex:鹿児島県鹿児島市東開町7イオンモール鹿児島2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオンレイクタウンkaze店 a ex:Shop ;
+    rdfs:label "イオンレイクタウンkaze店" ;
+    schema1:address ex:埼玉県越谷市レイクタウン4-2-2イオンレイクタウンkaze1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオン北見店 a ex:Shop ;
+    rdfs:label "イオン北見店" ;
+    schema1:address ex:北海道北見市北進町1丁目1-1イオン北見1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオン天王町ショッピングセンター店 a ex:Shop ;
+    rdfs:label "イオン天王町ショッピングセンター店" ;
+    schema1:address ex:神奈川県横浜市保土ヶ谷区川辺町3-5イオンスタイル天王町2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオン相模原ショッピングセンター店 a ex:Shop ;
+    rdfs:label "イオン相模原ショッピングセンター店" ;
+    schema1:address ex:神奈川県相模原市南区古淵2丁目10-1 ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオン金沢八景ショッピングセンター店 a ex:Shop ;
+    rdfs:label "イオン金沢八景ショッピングセンター店" ;
+    schema1:address ex:神奈川県横浜市金沢区泥亀1丁目27-1イオン金沢八景ショッピングセンター1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イオン釧路店 a ex:Shop ;
+    rdfs:label "イオン釧路店" ;
+    schema1:address ex:北海道釧路郡釧路町桂木1-1-7イオン釧路1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イクスピアリ舞浜店 a ex:Shop ;
+    rdfs:label "イクスピアリ舞浜店" ;
+    schema1:address ex:千葉県浦安市舞浜1-4イクスピアリ3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イーアスつくば店 a ex:Shop ;
+    rdfs:label "イーアスつくば店" ;
+    schema1:address ex:茨城県つくば市研究学園5-19イーアスつくば3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:イーアス春日井店 a ex:Shop ;
+    rdfs:label "イーアス春日井店" ;
+    schema1:address ex:愛知県春日井市六軒屋町字東丘22イーアス春日井1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ウィング上大岡店 a ex:Shop ;
+    rdfs:label "ウィング上大岡店" ;
+    schema1:address ex:神奈川県横浜市港南区上大岡西1丁目6-1ウィング上大岡3階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:エキア志木店 a ex:Shop ;
+    rdfs:label "エキア志木店" ;
+    schema1:address ex:埼玉県新座市東北2-38-10エキア志木1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:エキア朝霞店 a ex:Shop ;
+    rdfs:label "エキア朝霞店" ;
+    schema1:address ex:埼玉県朝霞市本町2-13-1東武東上線朝霞駅構内エキア朝霞2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:エキュート上野店 a ex:Shop ;
+    rdfs:label "エキュート上野店" ;
+    schema1:address ex:東京都台東区上野7-1-1JR駅構内3Fecute上野内 ;
+    ex:shopType "3COINS" .
+
+ex:エチカフィット上野店 a ex:Shop ;
+    rdfs:label "エチカフィット上野店" ;
+    schema1:address ex:東京都台東区東上野3-19-6銀座線上野駅構内エチカフィット上野B1F ;
+    ex:shopType "3COINSOOOPS!" .
+
+ex:エトモ中央林間店 a ex:Shop ;
+    rdfs:label "エトモ中央林間店" ;
+    schema1:address ex:神奈川県大和市中央林間4-6-3エトモ中央林間2F ;
+    ex:shopType "3COINS" .
+
+ex:エトモ長津田店 a ex:Shop ;
+    rdfs:label "エトモ長津田店" ;
+    schema1:address ex:神奈川県横浜市緑区長津田4-1-1東急田園都市線長津田駅2F正面改札外 ;
+    ex:shopType "3COINSOOOPS!" .
+
+ex:エビスタ西宮店 a ex:Shop ;
+    rdfs:label "エビスタ西宮店" ;
+    schema1:address ex:兵庫県西宮市田中町1-6エビスタ西宮2F ;
+    ex:shopType "3COINS" .
+
+ex:エミテラス所沢店 a ex:Shop ;
+    rdfs:label "エミテラス所沢店" ;
+    schema1:address ex:埼玉県所沢市東住吉10-1エミテラス所沢1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:エミフルMASAKI店 a ex:Shop ;
+    rdfs:label "エミフルMASAKI店" ;
+    schema1:address ex:愛媛県伊予郡松前町筒井850エミフルMASAKI2Ｆ ;
+    ex:shopType "3COINS+plus" .
+
+ex:エルパ福井店 a ex:Shop ;
+    rdfs:label "エルパ福井店" ;
+    schema1:address ex:福井県福井市大和田２丁目1212番地エルパ福井1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:カエデウォーク長津田店 a ex:Shop ;
+    rdfs:label "カエデウォーク長津田店" ;
+    schema1:address ex:神奈川県横浜市緑区長津田みなみ台4丁目7-1カエデウォーク長津田1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:カラフルタウン岐阜店 a ex:Shop ;
+    rdfs:label "カラフルタウン岐阜店" ;
+    schema1:address ex:岐阜県岐阜市柳津町丸野3-3-6カラフルタウン岐阜1F ;
+    ex:shopType "3COINS" .
+
+ex:キュービックプラザ新横浜店 a ex:Shop ;
+    rdfs:label "キュービックプラザ新横浜店" ;
+    schema1:address ex:神奈川県横浜市港北区新横浜2-100-45キュービックプラザ新横浜4F ;
+    ex:shopType "3COINS+plus" .
+
+ex:クリスタ長堀店 a ex:Shop ;
+    rdfs:label "クリスタ長堀店" ;
+    schema1:address ex:大阪府大阪市中央区南船場3長堀地下街4-74 ;
+    ex:shopType "3COINS" .
+
+ex:グランエミオ所沢店 a ex:Shop ;
+    rdfs:label "グランエミオ所沢店" ;
+    schema1:address ex:埼玉県所沢市くすのき台1-14-5グランエミオ所沢1F ;
+    ex:shopType "3COINS" .
+
+ex:グランスタ東京店 a ex:Shop ;
+    rdfs:label "グランスタ東京店" ;
+    schema1:address ex:東京都千代田区丸の内1-9-1JR東日本東京駅構内1階 ;
+    ex:shopType "3COINS" .
+
+ex:グランデュオ立川店 a ex:Shop ;
+    rdfs:label "グランデュオ立川店" ;
+    schema1:address ex:東京都立川市柴崎町3-2-1グランデュオ立川3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:グンゼタウンセンターつかしん店 a ex:Shop ;
+    rdfs:label "グンゼタウンセンターつかしん店" ;
+    schema1:address ex:兵庫県尼崎市塚口本町4-8-1グンゼタウンセンターつかしん店1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ゲートウォーク名古屋店 a ex:Shop ;
+    rdfs:label "ゲートウォーク名古屋店" ;
+    schema1:address ex:愛知県名古屋市中村区名駅1丁目1-2名古屋ゲートウォーク ;
+    ex:shopType "3COINSOOOPS!" .
+
+ex:ココリア多摩センター店 a ex:Shop ;
+    rdfs:label "ココリア多摩センター店" ;
+    schema1:address ex:東京都多摩市落合1丁目46-1 ;
+    ex:shopType "3COINS+plus" .
+
+ex:サンリブシティ小倉店 a ex:Shop ;
+    rdfs:label "サンリブシティ小倉店" ;
+    schema1:address ex:福岡県北九州市小倉南区上葛原2-14-1サンリブシティ小倉1F ;
+    ex:shopType "3COINS+plus" .
+
+<https://23X3138.github.io/HU_F5/3coins_output.ttl#ザ・モール仙台長町店> a ex:Shop ;
+    rdfs:label "ザ・モール仙台長町店" ;
+    schema1:address ex:宮城県仙台市太白区長町7-20-3ザモール仙台長町本館3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:シャポー小岩店 a ex:Shop ;
+    rdfs:label "シャポー小岩店" ;
+    schema1:address ex:東京都江戸川区南小岩7丁目24-15シャポー小岩1F ;
+    ex:shopType "3COINS" .
+
+ex:シャポー市川店 a ex:Shop ;
+    rdfs:label "シャポー市川店" ;
+    schema1:address ex:千葉県市川市市川1-1-1シャポー市川B1F ;
+    ex:shopType "3COINS" .
+
+ex:シャポー船橋店 a ex:Shop ;
+    rdfs:label "シャポー船橋店" ;
+    schema1:address ex:千葉県船橋市本町7-1-1シャポー船橋B1F ;
+    ex:shopType "3COINS" .
+
+ex:ジョイナステラス二俣川店 a ex:Shop ;
+    rdfs:label "ジョイナステラス二俣川店" ;
+    schema1:address ex:神奈川県横浜市旭区二俣川2丁目50-14ジョイナステラス二俣川2F ;
+    ex:shopType "3COINS" .
+
+ex:ステラタウン大宮店 a ex:Shop ;
+    rdfs:label "ステラタウン大宮店" ;
+    schema1:address ex:埼玉県さいたま市北区宮原町1丁目854-12階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:スマーク伊勢崎店 a ex:Shop ;
+    rdfs:label "スマーク伊勢崎店" ;
+    schema1:address ex:群馬県伊勢崎市西小保方町3681F ;
+    ex:shopType "3COINS+plus" .
+
+ex:セブンパークアリオ柏店 a ex:Shop ;
+    rdfs:label "セブンパークアリオ柏店" ;
+    schema1:address ex:千葉県柏市大島田1丁目6番地1セブンパークアリオ柏1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:セブンパーク天美店 a ex:Shop ;
+    rdfs:label "セブンパーク天美店" ;
+    schema1:address ex:大阪府松原市天美東3丁目500番地セブンパーク天美1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:セレオ八王子店 a ex:Shop ;
+    rdfs:label "セレオ八王子店" ;
+    schema1:address ex:東京都八王子市旭町1-1セレオ八王子北館3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:セレオ国分寺店 a ex:Shop ;
+    rdfs:label "セレオ国分寺店" ;
+    schema1:address ex:東京都国分寺市南町3丁目20-3セレオ国分寺4F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ダイナシティ小田原店 a ex:Shop ;
+    rdfs:label "ダイナシティ小田原店" ;
+    schema1:address ex:神奈川県小田原市中里296-1ダイナシティEAST1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:テラスモール湘南店 a ex:Shop ;
+    rdfs:label "テラスモール湘南店" ;
+    schema1:address ex:神奈川県藤沢市辻堂神台1-3-1テラスモール湘南4F ;
+    ex:shopType "3COINS+plus" .
+
+ex:トレッサ横浜店 a ex:Shop ;
+    rdfs:label "トレッサ横浜店" ;
+    schema1:address ex:神奈川県横浜市港北区師岡町700トレッサ横浜南棟2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ノースポートモール店 a ex:Shop ;
+    rdfs:label "ノースポートモール店" ;
+    schema1:address ex:神奈川県横浜市都筑区中川中央1-25-1ノースポートモール2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:パークプレイス大分店 a ex:Shop ;
+    rdfs:label "パークプレイス大分店" ;
+    schema1:address ex:大分県大分市公園通り西2-1パークプレイス大分1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ビーンズ戸田公園店 a ex:Shop ;
+    rdfs:label "ビーンズ戸田公園店" ;
+    schema1:address ex:埼玉県戸田市本町4-15-1戸田公園ショッピングセンター2階 ;
+    ex:shopType "3COINS" .
+
+ex:ビーンズ阿佐ヶ谷店 a ex:Shop ;
+    rdfs:label "ビーンズ阿佐ヶ谷店" ;
+    schema1:address ex:東京都杉並区阿佐ヶ谷南3丁目58-1ビーンズ阿佐ヶ谷2F ;
+    ex:shopType "3COINS" .
+
+ex:ピエリ守山店 a ex:Shop ;
+    rdfs:label "ピエリ守山店" ;
+    schema1:address ex:滋賀県守山市今浜町2620-5ピエリ守山1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ピオレ姫路店 a ex:Shop ;
+    rdfs:label "ピオレ姫路店" ;
+    schema1:address <https://23X3138.github.io/HU_F5/3coins_output.ttl#兵庫県姫路市駅前町188番1ピオレ1B1F区画:13> ;
+    ex:shopType "3COINS" .
+
+ex:ピオレ明石店 a ex:Shop ;
+    rdfs:label "ピオレ明石店" ;
+    schema1:address ex:兵庫県明石市大明石町1-1-23ピオレ明石西館W134 ;
+    ex:shopType "3COINS" .
+
+ex:ファボーレ富山店 a ex:Shop ;
+    rdfs:label "ファボーレ富山店" ;
+    schema1:address ex:富山県富山市婦中町下轡田165-1ファボーレ富山2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:プライムツリー赤池店 a ex:Shop ;
+    rdfs:label "プライムツリー赤池店" ;
+    schema1:address ex:愛知県日進市赤池町箕ノ手1プライムツリー赤池1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:プラーレ松戸店 a ex:Shop ;
+    rdfs:label "プラーレ松戸店" ;
+    schema1:address ex:千葉県松戸市松戸1149-1プラーレ松戸2F ;
+    ex:shopType "3COINS" .
+
+ex:ベイシア前橋みなみモール店 a ex:Shop ;
+    rdfs:label "ベイシア前橋みなみモール店" ;
+    schema1:address ex:群馬県前橋市新堀町893ベイシア前橋みなみモール店 ;
+    ex:shopType "3COINS+plus" .
+
+ex:ベルモール宇都宮店 a ex:Shop ;
+    rdfs:label "ベルモール宇都宮店" ;
+    schema1:address ex:栃木県宇都宮市陽東6-2-1ベルモール1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ペリエ千葉店 a ex:Shop ;
+    rdfs:label "ペリエ千葉店" ;
+    schema1:address ex:千葉県千葉市中央区新千葉1-1-1ペリエ千葉ストリート1F ;
+    ex:shopType "3COINS" .
+
+ex:ペリエ津田沼店 a ex:Shop ;
+    rdfs:label "ペリエ津田沼店" ;
+    schema1:address ex:千葉県習志野市津田沼1-1-1JR津田沼駅構内 ;
+    ex:shopType "3COINS" .
+
+ex:ペリエ西船橋店 a ex:Shop ;
+    rdfs:label "ペリエ西船橋店" ;
+    schema1:address ex:千葉県船橋市西船4丁目27番7号JR西船橋駅改札外2階 ;
+    ex:shopType "3COINS" .
+
+ex:ペルチ土浦店 a ex:Shop ;
+    rdfs:label "ペルチ土浦店" ;
+    schema1:address ex:茨城県土浦市有明町1-30ペルチ土浦3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ホワイティうめだ店 a ex:Shop ;
+    rdfs:label "ホワイティうめだ店" ;
+    schema1:address ex:大阪府大阪市北区小松原町梅田地下街4-6ホワイティ梅田イーストモール扇町 ;
+    ex:shopType "3COINS" .
+
+ex:マリンピア神戸店 a ex:Shop ;
+    rdfs:label "マリンピア神戸店" ;
+    schema1:address ex:兵庫県神戸市垂水区海岸通12-2 ;
+    ex:shopType "3COINS+plus" .
+
+ex:ミーナ天神店 a ex:Shop ;
+    rdfs:label "ミーナ天神店" ;
+    schema1:address ex:福岡県福岡市中央区天神4-3-8ミーナ天神B1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:メルサ栄店 a ex:Shop ;
+    rdfs:label "メルサ栄店" ;
+    schema1:address ex:愛知県名古屋市中区栄3丁目4-5メルサ栄本店4F ;
+    ex:shopType "3COINS+plus" .
+
+ex:モラージュ菖蒲店 a ex:Shop ;
+    rdfs:label "モラージュ菖蒲店" ;
+    schema1:address ex:埼玉県久喜市菖蒲町菖蒲6005-1モラージュ菖蒲1F ;
+    ex:shopType "3COINS" .
+
+ex:モレラ岐阜店 a ex:Shop ;
+    rdfs:label "モレラ岐阜店" ;
+    schema1:address ex:岐阜県本巣市三橋1100モレラ岐阜2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ヤエチカ店 a ex:Shop ;
+    rdfs:label "ヤエチカ店" ;
+    schema1:address ex:東京都中央区八重洲2-1八重洲地下街南1号 ;
+    ex:shopType "3COINS" .
+
+ex:ユニモちはら台店 a ex:Shop ;
+    rdfs:label "ユニモちはら台店" ;
+    schema1:address ex:千葉県市原市ちはら台西3丁目4ショッピングモールunimoちはら台1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ラスカ茅ヶ崎店 a ex:Shop ;
+    rdfs:label "ラスカ茅ヶ崎店" ;
+    schema1:address ex:神奈川県茅ヶ崎市元町1-1ラスカ茅ヶ崎2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ララガーデン春日部店 a ex:Shop ;
+    rdfs:label "ララガーデン春日部店" ;
+    schema1:address <https://23X3138.github.io/HU_F5/3coins_output.ttl#埼玉県春日部市南1丁目1‐1> ;
+    ex:shopType "3COINS+plus" .
+
+ex:リエール藤沢店 a ex:Shop ;
+    rdfs:label "リエール藤沢店" ;
+    schema1:address ex:神奈川県藤沢市南藤沢1-2リエール藤沢3F ;
+    ex:shopType "3COINS" .
+
+ex:リーフウォーク稲沢店 a ex:Shop ;
+    rdfs:label "リーフウォーク稲沢店" ;
+    schema1:address ex:愛知県稲沢市長野7丁目1-2リーフウォーク稲沢1階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:ルクア大阪8階店 a ex:Shop ;
+    rdfs:label "ルクア大阪8階店" ;
+    schema1:address ex:大阪府大阪市北区梅田3-1-3ルクア大阪8F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ルクア大阪B1店 a ex:Shop ;
+    rdfs:label "ルクア大阪B1店" ;
+    schema1:address ex:大阪府大阪市北区梅田3-1-3ルクア大阪地下1F ;
+    ex:shopType "3COINSOOOPS!" .
+
+ex:ルミネ1ルミネ大宮店 a ex:Shop ;
+    rdfs:label "ルミネ1ルミネ大宮店" ;
+    schema1:address ex:埼玉県さいたま市大宮区錦町630ルミネ15F ;
+    ex:shopType "3COINS" .
+
+ex:ルミネ2ルミネ大宮西口別館店 a ex:Shop ;
+    rdfs:label "ルミネ2ルミネ大宮西口別館店" ;
+    schema1:address ex:埼玉県さいたま市大宮区錦町630ルミネ2ルミネ大宮2F西口別館店 ;
+    ex:shopType "3COINS+plus" .
+
+ex:ルミネエスト新宿店 a ex:Shop ;
+    rdfs:label "ルミネエスト新宿店" ;
+    schema1:address ex:東京都新宿区新宿3-38-1ルミネエスト新宿3F ;
+    ex:shopType "3COINS" .
+
+ex:ルミネ北千住店 a ex:Shop ;
+    rdfs:label "ルミネ北千住店" ;
+    schema1:address ex:東京都足立区千住旭町42-2ルミネ北千住6F ;
+    ex:shopType "3COINS" .
+
+ex:ルミネ池袋店 a ex:Shop ;
+    rdfs:label "ルミネ池袋店" ;
+    schema1:address ex:東京都豊島区西池袋1-11-1ルミネ池袋5F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ルミネ荻窪店 a ex:Shop ;
+    rdfs:label "ルミネ荻窪店" ;
+    schema1:address ex:東京都杉並区上萩1-7-1ルミネ荻窪4F ;
+    ex:shopType "3COINS" .
+
+ex:ロンモール布施ぷらっと店 a ex:Shop ;
+    rdfs:label "ロンモール布施ぷらっと店" ;
+    schema1:address ex:大阪府東大阪市長堂1丁目1-52ロンモール布施ぷらっと2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:ヴェルサウォーク西尾店 a ex:Shop ;
+    rdfs:label "ヴェルサウォーク西尾店" ;
+    schema1:address ex:愛知県西尾市高畠町3丁目166-4ヴェルサウォーク西尾1F区画124 ;
+    ex:shopType "3COINS" .
+
+ex:三井ショッピングパークららテラス川口店 a ex:Shop ;
+    rdfs:label "三井ショッピングパークららテラス川口店" ;
+    schema1:address ex:埼玉県川口市栄町3-5-1三井ショッピングパークららテラス川口１F ;
+    ex:shopType "3COINS+plus" .
+
+ex:下北沢店 a ex:Shop ;
+    rdfs:label "下北沢店" ;
+    schema1:address ex:東京都世田谷区北沢2-25-19ピアザ近江屋ビル ;
+    ex:shopType "3COINS" .
+
+ex:二子玉川ライズ店 a ex:Shop ;
+    rdfs:label "二子玉川ライズ店" ;
+    schema1:address ex:東京都世田谷区玉川2-21-1二子玉川ライズステーションマーケット1F ;
+    ex:shopType "3COINS" .
+
+ex:京王聖蹟桜ヶ丘ショッピングセンター店 a ex:Shop ;
+    rdfs:label "京王聖蹟桜ヶ丘ショッピングセンター店" ;
+    schema1:address ex:東京都多摩市関戸1-10-1京王聖蹟桜ヶ丘ショッピングセンター5Ｆ ;
+    ex:shopType "3COINS+plus" .
+
+ex:京都ポルタ店 a ex:Shop ;
+    rdfs:label "京都ポルタ店" ;
+    schema1:address ex:京都府京都市下京区烏丸通塩小路下る東塩小路町902京都ポルタ315 ;
+    ex:shopType "3COINS" .
+
+ex:京都寺町店 a ex:Shop ;
+    rdfs:label "京都寺町店" ;
+    schema1:address ex:京都府京都市中京区寺町通り六角下ル式部町250 ;
+    ex:shopType "3COINS" .
+
+ex:京阪モール店 a ex:Shop ;
+    rdfs:label "京阪モール店" ;
+    schema1:address ex:大阪府大阪市都島区東野田町2-1-38京阪モール本館1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:仙台クリスロード店 a ex:Shop ;
+    rdfs:label "仙台クリスロード店" ;
+    schema1:address ex:宮城県仙台市青葉区中央2-6-4雫石ビル1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:仙台泉パークタウンタピオ店 a ex:Shop ;
+    rdfs:label "仙台泉パークタウンタピオ店" ;
+    schema1:address ex:宮城県仙台市泉区寺岡6-5-1泉パークタウンタピオ南館1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:則武新町店 a ex:Shop ;
+    rdfs:label "則武新町店" ;
+    schema1:address ex:愛知県名古屋市西区則武新町3丁目1番17号イオンモールNagoyaNoritakeGarden２F ;
+    ex:shopType "3COINS+plus" .
+
+ex:加古川ニッケパークタウン店 a ex:Shop ;
+    rdfs:label "加古川ニッケパークタウン店" ;
+    schema1:address ex:兵庫県加古川市加古川町寺家町173-1 ;
+    ex:shopType "3COINS+plus" .
+
+ex:北浦和駅店 a ex:Shop ;
+    rdfs:label "北浦和駅店" ;
+    schema1:address ex:埼玉県さいたま市浦和区北浦和3-3-5JR北浦和駅構内 ;
+    ex:shopType "3COINSstation" .
+
+ex:南砂町ショッピングセンターSUNAMO店 a ex:Shop ;
+    rdfs:label "南砂町ショッピングセンターSUNAMO店" ;
+    schema1:address ex:東京都江東区新砂3丁目4-31南砂町ショッピングセンターSUMAMO2階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:原宿本店 a ex:Shop ;
+    rdfs:label "原宿本店" ;
+    schema1:address ex:東京都渋谷区神宮前6-12-22秋田ビル1F ;
+    ex:shopType "3COINS" .
+
+ex:和歌山MIO店 a ex:Shop ;
+    rdfs:label "和歌山MIO店" ;
+    schema1:address ex:和歌山県和歌山市美園町5-61和歌山MIO本館4F ;
+    ex:shopType "3COINS" .
+
+ex:大分トキハわさだタウン店 a ex:Shop ;
+    rdfs:label "大分トキハわさだタウン店" ;
+    schema1:address ex:大分県大分市大字玉沢字楠本755-1トキハわさだタウン2街区1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:大船ルミネウィング店 a ex:Shop ;
+    rdfs:label "大船ルミネウィング店" ;
+    schema1:address ex:神奈川県鎌倉市大船1-4-1大船ルミネウィング4F ;
+    ex:shopType "3COINS+plus" .
+
+ex:天満橋京阪シティモール店 a ex:Shop ;
+    rdfs:label "天満橋京阪シティモール店" ;
+    schema1:address ex:大阪府大阪市中央区天満橋京町1-1京阪シティモール2Ｆ ;
+    ex:shopType "3COINS+plus" .
+
+ex:天王寺MIOプラザ館店 a ex:Shop ;
+    rdfs:label "天王寺MIOプラザ館店" ;
+    schema1:address ex:大阪府大阪市天王寺区悲田院町10-48天王寺MIOプラザ館2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:宇都宮インターパークビレッジ店 a ex:Shop ;
+    rdfs:label "宇都宮インターパークビレッジ店" ;
+    schema1:address ex:栃木県宇都宮市インターパーク4-1-3宇都宮インターパークビレッジ１F ;
+    ex:shopType "3COINS+plus" .
+
+ex:富山マルート店 a ex:Shop ;
+    rdfs:label "富山マルート店" ;
+    schema1:address ex:富山県富山市明輪町1番231号JR富山駅ビルMAROOT2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:尼崎駅店 a ex:Shop ;
+    rdfs:label "尼崎駅店" ;
+    schema1:address ex:兵庫県尼崎市潮江1丁目1番尼崎駅構内東改札内 ;
+    ex:shopType "3COINS" .
+
+ex:市川ニッケコルトンプラザ店 a ex:Shop ;
+    rdfs:label "市川ニッケコルトンプラザ店" ;
+    schema1:address ex:千葉県市川市鬼高1-1-1ニッケコルトンプラザセンターモール2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:広島LECT店 a ex:Shop ;
+    rdfs:label "広島LECT店" ;
+    schema1:address ex:広島県広島市西区扇2丁目1番45号LECT1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:広島本通店 a ex:Shop ;
+    rdfs:label "広島本通店" ;
+    schema1:address ex:広島県広島市中区本通9-27 ;
+    ex:shopType "3COINS+plus" .
+
+ex:御影クラッセ店 a ex:Shop ;
+    rdfs:label "御影クラッセ店" ;
+    schema1:address ex:兵庫県神戸市東灘区御影中町3-2-1 ;
+    ex:shopType "3COINS+plus" .
+
+ex:新さっぽろカテプリ店 a ex:Shop ;
+    rdfs:label "新さっぽろカテプリ店" ;
+    schema1:address ex:北海道札幌市厚別区厚別中央2条5丁目7番カテプリB1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:新橋駅汐留口店 a ex:Shop ;
+    rdfs:label "新橋駅汐留口店" ;
+    schema1:address ex:東京都港区新橋2-17-14JR新橋駅構内B1F ;
+    ex:shopType "3COINSOOOPS!" .
+
+ex:新百合丘オーパ店 a ex:Shop ;
+    rdfs:label "新百合丘オーパ店" ;
+    schema1:address ex:神奈川県川崎市麻生区上麻生1丁目1-1新百合ヶ丘オーパB1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:新越谷ヴァリエ店 a ex:Shop ;
+    rdfs:label "新越谷ヴァリエ店" ;
+    schema1:address ex:埼玉県越谷市南越谷1-11-4新越谷ヴァリエ2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:新静岡セノバ店 a ex:Shop ;
+    rdfs:label "新静岡セノバ店" ;
+    schema1:address ex:静岡県静岡市葵区鷹匠1-1-1新静岡セノバB1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:明石ビブレ店 a ex:Shop ;
+    rdfs:label "明石ビブレ店" ;
+    schema1:address <https://23X3138.github.io/HU_F5/3coins_output.ttl#兵庫県明石市大久保町ゆりのき通1丁目3－3明石ビブレ2Ｆ> ;
+    ex:shopType "3COINS+plus" .
+
+ex:札幌アピア店 a ex:Shop ;
+    rdfs:label "札幌アピア店" ;
+    schema1:address ex:北海道札幌市中央区北五条西3JRタワースクエア札幌アピアB1F ;
+    ex:shopType "3COINS" .
+
+ex:札幌オーロラタウン店 a ex:Shop ;
+    rdfs:label "札幌オーロラタウン店" ;
+    schema1:address ex:北海道札幌市中央区大通西2丁目札幌地下街オーロラタウン地下1F ;
+    ex:shopType "3COINSOOOPS!" .
+
+ex:札幌ポールタウン店 a ex:Shop ;
+    rdfs:label "札幌ポールタウン店" ;
+    schema1:address ex:北海道札幌市中央区南2条西3札幌地下街ポールタウンB1F ;
+    ex:shopType "3COINS" .
+
+ex:東京ドームシティラクーア店 a ex:Shop ;
+    rdfs:label "東京ドームシティラクーア店" ;
+    schema1:address ex:東京都文京区春日1-1-1東京ドームシティラクーア2階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:東急プラザ戸塚店 a ex:Shop ;
+    rdfs:label "東急プラザ戸塚店" ;
+    schema1:address ex:神奈川県横浜市戸塚区戸塚町16-1東急プラザ戸塚1F ;
+    ex:shopType "3COINS" .
+
+ex:東急プラザ蒲田店 a ex:Shop ;
+    rdfs:label "東急プラザ蒲田店" ;
+    schema1:address ex:東京都大田区西蒲田7-69-1東急プラザ蒲田3F ;
+    ex:shopType "3COINS" .
+
+ex:東急百貨店吉祥寺店 a ex:Shop ;
+    rdfs:label "東急百貨店吉祥寺店" ;
+    schema1:address ex:東京都武蔵野市吉祥寺本町2-3-1東急百貨店吉祥寺店5F ;
+    ex:shopType "3COINS+plus" .
+
+ex:枚方モール店 a ex:Shop ;
+    rdfs:label "枚方モール店" ;
+    schema1:address ex:大阪府枚方市岡東町19-1枚方モール1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:柏高島屋ステーションモール店 a ex:Shop ;
+    rdfs:label "柏高島屋ステーションモール店" ;
+    schema1:address ex:千葉県柏市末広町1-1柏髙島屋ステーションモールS館6F ;
+    ex:shopType "3COINS+plus" .
+
+ex:横浜ジョイナス店 a ex:Shop ;
+    rdfs:label "横浜ジョイナス店" ;
+    schema1:address ex:神奈川県横浜市西区南幸1-5-1ジョイナス横浜B1F ;
+    ex:shopType "3COINS" .
+
+ex:横浜ポルタ店 a ex:Shop ;
+    rdfs:label "横浜ポルタ店" ;
+    schema1:address ex:神奈川県横浜市西区高島2-16横浜ポルタB1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:横須賀モアーズシティ店 a ex:Shop ;
+    rdfs:label "横須賀モアーズシティ店" ;
+    schema1:address ex:神奈川県横須賀市若松町2-30モアーズシティ6F ;
+    ex:shopType "3COINS+plus" .
+
+ex:橋本駅店 a ex:Shop ;
+    rdfs:label "橋本駅店" ;
+    schema1:address ex:神奈川県相模原市緑区橋本6-1-25JR橋本駅構内 ;
+    ex:shopType "3COINSstation" .
+
+ex:武蔵小杉東急スクエア店 a ex:Shop ;
+    rdfs:label "武蔵小杉東急スクエア店" ;
+    schema1:address ex:神奈川県川崎市中原区小杉町3-472武蔵小杉東急スクエア3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:池袋サンシャインシティ店 a ex:Shop ;
+    rdfs:label "池袋サンシャインシティ店" ;
+    schema1:address ex:東京都豊島区東池袋3-1-2サンシャインシティアルパB1F ;
+    ex:shopType "3COINS" .
+
+ex:池袋ショッピングパーク店 a ex:Shop ;
+    rdfs:label "池袋ショッピングパーク店" ;
+    schema1:address ex:東京都豊島区南池袋1-29-1池袋ショッピングパークB1F ;
+    ex:shopType "3COINS" .
+
+ex:沖縄パルコシティ店 a ex:Shop ;
+    rdfs:label "沖縄パルコシティ店" ;
+    schema1:address ex:沖縄県浦添市西洲3丁目1-1PARCOCITY1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:河原町オーパ店 a ex:Shop ;
+    rdfs:label "河原町オーパ店" ;
+    schema1:address ex:京都市中京区河原町通四条上ル米屋町385番地河原町OPA5階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:泉北パンジョ店 a ex:Shop ;
+    rdfs:label "泉北パンジョ店" ;
+    schema1:address ex:大阪府堺市南区茶山台1-3-1泉北パンジョ3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:洛北阪急スクエア店 a ex:Shop ;
+    rdfs:label "洛北阪急スクエア店" ;
+    schema1:address ex:京都府京都市左京区高野西開町36洛北阪急スクエア1F ;
+    ex:shopType "3COINS+plus" .
+
+<https://23X3138.github.io/HU_F5/3coins_output.ttl#流山おおたかの森S・C店> a ex:Shop ;
+    rdfs:label "流山おおたかの森S・C店" ;
+    schema1:address ex:千葉県流山市おおたかの森南1-5-1流山おおたかの森S.C本館2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:浅草ROX店 a ex:Shop ;
+    rdfs:label "浅草ROX店" ;
+    schema1:address ex:東京都台東区浅草1-25-15浅草ROX2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:浦和パルコ店 a ex:Shop ;
+    rdfs:label "浦和パルコ店" ;
+    schema1:address ex:埼玉県さいたま市浦和区東高砂町11-1浦和パルコ3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:港北TOKYUS.C.店 a ex:Shop ;
+    rdfs:label "港北TOKYUS.C.店" ;
+    schema1:address ex:神奈川県横浜市都筑区茅ヶ崎中央5番1号港北TOKYUS.C.A館地下1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:溝の口ノクティプラザ店 a ex:Shop ;
+    rdfs:label "溝の口ノクティプラザ店" ;
+    schema1:address ex:神奈川県川崎市高津区溝口1-3-1 ;
+    ex:shopType "3COINS+plus" .
+
+ex:熊本鶴屋New-S店 a ex:Shop ;
+    rdfs:label "熊本鶴屋New-S店" ;
+    schema1:address ex:熊本県熊本市中央区上通町2-2New-S2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:町田マルイ店 a ex:Shop ;
+    rdfs:label "町田マルイ店" ;
+    schema1:address <https://23X3138.github.io/HU_F5/3coins_output.ttl#東京都町田市原町田6丁目1－6町田マルイ2階> ;
+    ex:shopType "3COINS" .
+
+ex:町田モディ店 a ex:Shop ;
+    rdfs:label "町田モディ店" ;
+    schema1:address ex:東京都町田市原町田6丁目2-6町田モディ3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:盛岡フェザン店 a ex:Shop ;
+    rdfs:label "盛岡フェザン店" ;
+    schema1:address ex:岩手県盛岡市盛岡駅前通1-44盛岡駅フェザン本館1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:相模大野ステーションスクエア店 a ex:Shop ;
+    rdfs:label "相模大野ステーションスクエア店" ;
+    schema1:address ex:神奈川県相模原市南区相模大野3-8-1相模大野ステーションスクエアA館5F ;
+    ex:shopType "3COINS+plus" .
+
+ex:神戸さんちか店 a ex:Shop ;
+    rdfs:label "神戸さんちか店" ;
+    schema1:address ex:兵庫県神戸市中央区三宮町1-10-1三宮さんちか3番街 ;
+    ex:shopType "3COINS" .
+
+ex:神戸ハーバーランドumie店 a ex:Shop ;
+    rdfs:label "神戸ハーバーランドumie店" ;
+    schema1:address ex:兵庫県神戸市中央区東川崎町1-7-2神戸ハーバーランドUMIENORTHMALL2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:神戸店 a ex:Shop ;
+    rdfs:label "神戸店" ;
+    schema1:address ex:兵庫県神戸市中央区三宮町2-10-7グレース神戸ビル1F ;
+    ex:shopType "3COINS" .
+
+ex:草加VARIE店 a ex:Shop ;
+    rdfs:label "草加VARIE店" ;
+    schema1:address ex:埼玉県草加市氷川町1970草加VARIE2 ;
+    ex:shopType "3COINS" .
+
+ex:西武新宿ぺぺ店 a ex:Shop ;
+    rdfs:label "西武新宿ぺぺ店" ;
+    schema1:address ex:東京都新宿区歌舞伎町1-30-1西武新宿ぺぺ3階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:西武東戸塚S.C.店 a ex:Shop ;
+    rdfs:label "西武東戸塚S.C.店" ;
+    schema1:address ex:神奈川県横浜市戸塚区品濃町537-1西武東戸塚S.C.アネックス館6階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:西神プレンティ店 a ex:Shop ;
+    rdfs:label "西神プレンティ店" ;
+    schema1:address ex:兵庫県神戸市西区糀台5丁目2番3号専門店一番館1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:西銀座デパート店 a ex:Shop ;
+    rdfs:label "西銀座デパート店" ;
+    schema1:address ex:東京都中央区銀座4-1西銀座デパート2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:調布パルコ店 a ex:Shop ;
+    rdfs:label "調布パルコ店" ;
+    schema1:address ex:東京都調布市小島町１丁目38-1調布パルコ3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:遠鉄百貨店 a ex:Shop ;
+    rdfs:label "遠鉄百貨店" ;
+    schema1:address ex:静岡県浜松市中央区天王町字諏訪1981-3イオンモール浜松市野2F ;
+    ex:shopType "3COINS+plus" .
+
+ex:那覇メインプレイス店 a ex:Shop ;
+    rdfs:label "那覇メインプレイス店" ;
+    schema1:address ex:沖縄県那覇市おもろまち4-4-9那覇メインプレイス1Ｆ ;
+    ex:shopType "3COINS+plus" .
+
+ex:金沢百番街Rinto店 a ex:Shop ;
+    rdfs:label "金沢百番街Rinto店" ;
+    schema1:address ex:石川県金沢市木ノ新保町1-1金沢百番街Rinto ;
+    ex:shopType "3COINS+plus" .
+
+ex:長崎浜町店 a ex:Shop ;
+    rdfs:label "長崎浜町店" ;
+    schema1:address ex:長崎県長崎市浜町1番10号有川ビル1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:関マーゴ店 a ex:Shop ;
+    rdfs:label "関マーゴ店" ;
+    schema1:address ex:岐阜県関市倉知516マーゴ本館1階 ;
+    ex:shopType "3COINS+plus" .
+
+ex:阪急三番街店 a ex:Shop ;
+    rdfs:label "阪急三番街店" ;
+    schema1:address ex:大阪府大阪市北区芝田1-1-3阪急三番街南館1F ;
+    ex:shopType "3COINS" .
+
+ex:阪急西宮ガーデンズ店 a ex:Shop ;
+    rdfs:label "阪急西宮ガーデンズ店" ;
+    schema1:address ex:兵庫県西宮市高松町14-2阪急西宮ガーデンズ本館3F ;
+    ex:shopType "3COINS+plus" .
+
+ex:青森ELM店 a ex:Shop ;
+    rdfs:label "青森ELM店" ;
+    schema1:address ex:青森県五所川原市大字唐笠柳字藤巻517-1ELM1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:青葉台東急スクエア店 a ex:Shop ;
+    rdfs:label "青葉台東急スクエア店" ;
+    schema1:address ex:神奈川県横浜市青葉区青葉台2-1-1青葉台東急スクエアSouth-22F ;
+    ex:shopType "3COINS+plus" .
+
+ex:飯田橋メトロピア店 a ex:Shop ;
+    rdfs:label "飯田橋メトロピア店" ;
+    schema1:address ex:東京都新宿区神楽坂1-13東京メトロ飯田橋駅B1階改札前 ;
+    ex:shopType "3COINS" .
+
+ex:高崎モントレー店 a ex:Shop ;
+    rdfs:label "高崎モントレー店" ;
+    schema1:address <https://23X3138.github.io/HU_F5/3coins_output.ttl#群馬県高崎市八島町222高崎駅ビル・モントレー4F> ;
+    ex:shopType "3COINS+plus" .
+
+ex:高槻阪急スクエア店 a ex:Shop ;
+    rdfs:label "高槻阪急スクエア店" ;
+    schema1:address ex:大阪府高槻市白梅町4-1高槻阪急スクエア1F ;
+    ex:shopType "3COINS+plus" .
+
+ex:三重県員弁郡東員町長深字築田510-1イオンモール東員1F a schema1:PostalAddress ;
+    rdfs:label "三重県員弁郡東員町長深字築田510-1イオンモール東員1F" .
+
+ex:三重県四日市市富州原町2番40号イオンモール四日市北1F a schema1:PostalAddress ;
+    rdfs:label "三重県四日市市富州原町2番40号イオンモール四日市北1F" .
+
+ex:三重県津市高茶屋小森町145イオンモール津南3F a schema1:PostalAddress ;
+    rdfs:label "三重県津市高茶屋小森町145イオンモール津南3F" .
+
+ex:三重県鈴鹿市庄野羽山4-1-2イオンモール鈴鹿2F a schema1:PostalAddress ;
+    rdfs:label "三重県鈴鹿市庄野羽山4-1-2イオンモール鈴鹿2F" .
+
+ex:京都市中京区河原町通四条上ル米屋町385番地河原町OPA5階 a schema1:PostalAddress ;
+    rdfs:label "京都市中京区河原町通四条上ル米屋町385番地河原町OPA5階" .
+
+ex:京都府久世郡久御山町森南大内156イオンモール久御山1F a schema1:PostalAddress ;
+    rdfs:label "京都府久世郡久御山町森南大内156イオンモール久御山1F" .
+
+ex:京都府京都市下京区烏丸通塩小路下る東塩小路町902京都ポルタ315 a schema1:PostalAddress ;
+    rdfs:label "京都府京都市下京区烏丸通塩小路下る東塩小路町902京都ポルタ315" .
+
+ex:京都府京都市中京区寺町通り六角下ル式部町250 a schema1:PostalAddress ;
+    rdfs:label "京都府京都市中京区寺町通り六角下ル式部町250" .
+
+ex:京都府京都市伏見区桃山町山ノ下32 a schema1:PostalAddress ;
+    rdfs:label "京都府京都市伏見区桃山町山ノ下32" .
+
+ex:京都府京都市南区久世高田町376番1イオンモール京都桂川3F a schema1:PostalAddress ;
+    rdfs:label "京都府京都市南区久世高田町376番1イオンモール京都桂川3F" .
+
+ex:京都府京都市南区西九条鳥居口町1イオンモールKYOTO3F a schema1:PostalAddress ;
+    rdfs:label "京都府京都市南区西九条鳥居口町1イオンモールKYOTO3F" .
+
+ex:京都府京都市右京区西院追分町25-1イオンモール京都五条1Ｆ a schema1:PostalAddress ;
+    rdfs:label "京都府京都市右京区西院追分町25-1イオンモール京都五条1Ｆ" .
+
+ex:京都府京都市左京区高野西開町36洛北阪急スクエア1F a schema1:PostalAddress ;
+    rdfs:label "京都府京都市左京区高野西開町36洛北阪急スクエア1F" .
+
+ex:佐賀県佐賀市兵庫北5丁目14番1号ゆめタウン佐賀1F a schema1:PostalAddress ;
+    rdfs:label "佐賀県佐賀市兵庫北5丁目14番1号ゆめタウン佐賀1F" .
+
+ex:佐賀県武雄市武雄町大字武雄49921F a schema1:PostalAddress ;
+    rdfs:label "佐賀県武雄市武雄町大字武雄49921F" .
+
+ex:兵庫県伊丹市藤ノ木1-1-1イオンモール伊丹3F a schema1:PostalAddress ;
+    rdfs:label "兵庫県伊丹市藤ノ木1-1-1イオンモール伊丹3F" .
+
+ex:兵庫県加古川市加古川町寺家町173-1 a schema1:PostalAddress ;
+    rdfs:label "兵庫県加古川市加古川町寺家町173-1" .
+
+ex:兵庫県加西市北条町北条308-1 a schema1:PostalAddress ;
+    rdfs:label "兵庫県加西市北条町北条308-1" .
+
+ex:兵庫県姫路市大津区大津町2丁目5番イオンモール姫路大津1F a schema1:PostalAddress ;
+    rdfs:label "兵庫県姫路市大津区大津町2丁目5番イオンモール姫路大津1F" .
+
+<https://23X3138.github.io/HU_F5/3coins_output.ttl#兵庫県姫路市駅前町188番1ピオレ1B1F区画:13> a schema1:PostalAddress ;
+    rdfs:label "兵庫県姫路市駅前町188番1ピオレ1B1F区画:13" .
+
+ex:兵庫県尼崎市塚口本町4-8-1グンゼタウンセンターつかしん店1F a schema1:PostalAddress ;
+    rdfs:label "兵庫県尼崎市塚口本町4-8-1グンゼタウンセンターつかしん店1F" .
+
+ex:兵庫県尼崎市潮江1丁目1番尼崎駅構内東改札内 a schema1:PostalAddress ;
+    rdfs:label "兵庫県尼崎市潮江1丁目1番尼崎駅構内東改札内" .
+
+ex:兵庫県川西市栄町25-1 a schema1:PostalAddress ;
+    rdfs:label "兵庫県川西市栄町25-1" .
+
+<https://23X3138.github.io/HU_F5/3coins_output.ttl#兵庫県明石市大久保町ゆりのき通1丁目3－3明石ビブレ2Ｆ> a schema1:PostalAddress ;
+    rdfs:label "兵庫県明石市大久保町ゆりのき通1丁目3－3明石ビブレ2Ｆ" .
+
+ex:兵庫県明石市大明石町1-1-23ピオレ明石西館W134 a schema1:PostalAddress ;
+    rdfs:label "兵庫県明石市大明石町1-1-23ピオレ明石西館W134" .
+
+ex:兵庫県神戸市中央区三宮町1-10-1三宮さんちか3番街 a schema1:PostalAddress ;
+    rdfs:label "兵庫県神戸市中央区三宮町1-10-1三宮さんちか3番街" .
+
+ex:兵庫県神戸市中央区三宮町2-10-7グレース神戸ビル1F a schema1:PostalAddress ;
+    rdfs:label "兵庫県神戸市中央区三宮町2-10-7グレース神戸ビル1F" .
+
+ex:兵庫県神戸市中央区東川崎町1-7-2神戸ハーバーランドUMIENORTHMALL2F a schema1:PostalAddress ;
+    rdfs:label "兵庫県神戸市中央区東川崎町1-7-2神戸ハーバーランドUMIENORTHMALL2F" .
+
+ex:兵庫県神戸市北区上津台8-1-1イオンモール神戸北2F208 a schema1:PostalAddress ;
+    rdfs:label "兵庫県神戸市北区上津台8-1-1イオンモール神戸北2F208" .
+
+ex:兵庫県神戸市垂水区海岸通12-2 a schema1:PostalAddress ;
+    rdfs:label "兵庫県神戸市垂水区海岸通12-2" .
+
+ex:兵庫県神戸市東灘区御影中町3-2-1 a schema1:PostalAddress ;
+    rdfs:label "兵庫県神戸市東灘区御影中町3-2-1" .
+
+ex:兵庫県神戸市西区糀台5丁目2番3号専門店一番館1F a schema1:PostalAddress ;
+    rdfs:label "兵庫県神戸市西区糀台5丁目2番3号専門店一番館1F" .
+
+ex:兵庫県西宮市田中町1-6エビスタ西宮2F a schema1:PostalAddress ;
+    rdfs:label "兵庫県西宮市田中町1-6エビスタ西宮2F" .
+
+ex:兵庫県西宮市甲子園八番町1-100ららぽーと甲子園リバーウォークモール1F a schema1:PostalAddress ;
+    rdfs:label "兵庫県西宮市甲子園八番町1-100ららぽーと甲子園リバーウォークモール1F" .
+
+ex:兵庫県西宮市高松町14-2阪急西宮ガーデンズ本館3F a schema1:PostalAddress ;
+    rdfs:label "兵庫県西宮市高松町14-2阪急西宮ガーデンズ本館3F" .
+
+ex:北海道北見市北進町1丁目1-1イオン北見1F a schema1:PostalAddress ;
+    rdfs:label "北海道北見市北進町1丁目1-1イオン北見1F" .
+
+ex:北海道旭川市緑町23丁目2161-3イオンモール旭川西2F a schema1:PostalAddress ;
+    rdfs:label "北海道旭川市緑町23丁目2161-3イオンモール旭川西2F" .
+
+ex:北海道札幌市中央区北五条西3JRタワースクエア札幌アピアB1F a schema1:PostalAddress ;
+    rdfs:label "北海道札幌市中央区北五条西3JRタワースクエア札幌アピアB1F" .
+
+ex:北海道札幌市中央区南2条西3札幌地下街ポールタウンB1F a schema1:PostalAddress ;
+    rdfs:label "北海道札幌市中央区南2条西3札幌地下街ポールタウンB1F" .
+
+ex:北海道札幌市中央区大通西2丁目札幌地下街オーロラタウン地下1F a schema1:PostalAddress ;
+    rdfs:label "北海道札幌市中央区大通西2丁目札幌地下街オーロラタウン地下1F" .
+
+ex:北海道札幌市厚別区厚別中央2条5丁目7番カテプリB1F a schema1:PostalAddress ;
+    rdfs:label "北海道札幌市厚別区厚別中央2条5丁目7番カテプリB1F" .
+
+ex:北海道札幌市東区東苗穂2条3丁目1-1イオンモール札幌苗穂1F a schema1:PostalAddress ;
+    rdfs:label "北海道札幌市東区東苗穂2条3丁目1-1イオンモール札幌苗穂1F" .
+
+ex:北海道札幌市西区発寒8条12丁目1番地イオンモール札幌発寒2F a schema1:PostalAddress ;
+    rdfs:label "北海道札幌市西区発寒8条12丁目1番地イオンモール札幌発寒2F" .
+
+ex:北海道釧路郡釧路町桂木1-1-7イオン釧路1F a schema1:PostalAddress ;
+    rdfs:label "北海道釧路郡釧路町桂木1-1-7イオン釧路1F" .
+
+ex:千葉県八千代市緑が丘2-1-3イオンモール八千代緑が丘2F a schema1:PostalAddress ;
+    rdfs:label "千葉県八千代市緑が丘2-1-3イオンモール八千代緑が丘2F" .
+
+ex:千葉県千葉市中央区川崎町52-7アリオ蘇我1F a schema1:PostalAddress ;
+    rdfs:label "千葉県千葉市中央区川崎町52-7アリオ蘇我1F" .
+
+ex:千葉県千葉市中央区新千葉1-1-1ペリエ千葉ストリート1F a schema1:PostalAddress ;
+    rdfs:label "千葉県千葉市中央区新千葉1-1-1ペリエ千葉ストリート1F" .
+
+ex:千葉県千葉市美浜区豊砂1-1イオンモール幕張新都心グランドモール3F a schema1:PostalAddress ;
+    rdfs:label "千葉県千葉市美浜区豊砂1-1イオンモール幕張新都心グランドモール3F" .
+
+ex:千葉県印西市中央区北3-1-1イオン1F a schema1:PostalAddress ;
+    rdfs:label "千葉県印西市中央区北3-1-1イオン1F" .
+
+ex:千葉県市原市ちはら台西3丁目4ショッピングモールunimoちはら台1F a schema1:PostalAddress ;
+    rdfs:label "千葉県市原市ちはら台西3丁目4ショッピングモールunimoちはら台1F" .
+
+ex:千葉県市原市更級4-3-2アリオ市原1Ｆ a schema1:PostalAddress ;
+    rdfs:label "千葉県市原市更級4-3-2アリオ市原1Ｆ" .
+
+ex:千葉県市川市市川1-1-1シャポー市川B1F a schema1:PostalAddress ;
+    rdfs:label "千葉県市川市市川1-1-1シャポー市川B1F" .
+
+ex:千葉県市川市鬼高1-1-1ニッケコルトンプラザセンターモール2F a schema1:PostalAddress ;
+    rdfs:label "千葉県市川市鬼高1-1-1ニッケコルトンプラザセンターモール2F" .
+
+ex:千葉県成田市ウイング土屋24イオンモール成田1F a schema1:PostalAddress ;
+    rdfs:label "千葉県成田市ウイング土屋24イオンモール成田1F" .
+
+ex:千葉県成田市赤坂2丁目1-10そよら成田ニュータウン2F a schema1:PostalAddress ;
+    rdfs:label "千葉県成田市赤坂2丁目1-10そよら成田ニュータウン2F" .
+
+ex:千葉県木更津市築地1-4イオンモール木更津1F a schema1:PostalAddress ;
+    rdfs:label "千葉県木更津市築地1-4イオンモール木更津1F" .
+
+ex:千葉県松戸市松戸1149-1プラーレ松戸2F a schema1:PostalAddress ;
+    rdfs:label "千葉県松戸市松戸1149-1プラーレ松戸2F" .
+
+ex:千葉県柏市大島田1丁目6番地1セブンパークアリオ柏1F a schema1:PostalAddress ;
+    rdfs:label "千葉県柏市大島田1丁目6番地1セブンパークアリオ柏1F" .
+
+ex:千葉県柏市末広町1-1柏髙島屋ステーションモールS館6F a schema1:PostalAddress ;
+    rdfs:label "千葉県柏市末広町1-1柏髙島屋ステーションモールS館6F" .
+
+ex:千葉県柏市若柴175ららぽーと柏の葉1F a schema1:PostalAddress ;
+    rdfs:label "千葉県柏市若柴175ららぽーと柏の葉1F" .
+
+ex:千葉県柏市豊町2-5-25イオンモール柏1F a schema1:PostalAddress ;
+    rdfs:label "千葉県柏市豊町2-5-25イオンモール柏1F" .
+
+ex:千葉県流山市おおたかの森南1-5-1流山おおたかの森S.C本館2F a schema1:PostalAddress ;
+    rdfs:label "千葉県流山市おおたかの森南1-5-1流山おおたかの森S.C本館2F" .
+
+ex:千葉県浦安市入船1-1-1アトレ新浦安1F a schema1:PostalAddress ;
+    rdfs:label "千葉県浦安市入船1-1-1アトレ新浦安1F" .
+
+ex:千葉県浦安市舞浜1-4イクスピアリ3F a schema1:PostalAddress ;
+    rdfs:label "千葉県浦安市舞浜1-4イクスピアリ3F" .
+
+ex:千葉県習志野市津田沼1-1-1JR津田沼駅構内 a schema1:PostalAddress ;
+    rdfs:label "千葉県習志野市津田沼1-1-1JR津田沼駅構内" .
+
+ex:千葉県習志野市津田沼1丁目23-1イオンモール津田沼２F a schema1:PostalAddress ;
+    rdfs:label "千葉県習志野市津田沼1丁目23-1イオンモール津田沼２F" .
+
+ex:千葉県船橋市本町7-1-1シャポー船橋B1F a schema1:PostalAddress ;
+    rdfs:label "千葉県船橋市本町7-1-1シャポー船橋B1F" .
+
+ex:千葉県船橋市浜町2-1-1ららぽーとTOKYO-BAY西館1F a schema1:PostalAddress ;
+    rdfs:label "千葉県船橋市浜町2-1-1ららぽーとTOKYO-BAY西館1F" .
+
+ex:千葉県船橋市西船4丁目27番7号JR西船橋駅改札外2階 a schema1:PostalAddress ;
+    rdfs:label "千葉県船橋市西船4丁目27番7号JR西船橋駅改札外2階" .
+
+ex:和歌山県和歌山市ふじと台23番地イオンモール和歌山1F a schema1:PostalAddress ;
+    rdfs:label "和歌山県和歌山市ふじと台23番地イオンモール和歌山1F" .
+
+ex:和歌山県和歌山市美園町5-61和歌山MIO本館4F a schema1:PostalAddress ;
+    rdfs:label "和歌山県和歌山市美園町5-61和歌山MIO本館4F" .
+
+ex:埼玉県さいたま市中央区本町西5-2-9イオンモール与野1F a schema1:PostalAddress ;
+    rdfs:label "埼玉県さいたま市中央区本町西5-2-9イオンモール与野1F" .
+
+ex:埼玉県さいたま市北区宮原町1丁目854-12階 a schema1:PostalAddress ;
+    rdfs:label "埼玉県さいたま市北区宮原町1丁目854-12階" .
+
+ex:埼玉県さいたま市大宮区吉敷町4丁目コクーンシティ23Ｆ a schema1:PostalAddress ;
+    rdfs:label "埼玉県さいたま市大宮区吉敷町4丁目コクーンシティ23Ｆ" .
+
+ex:埼玉県さいたま市大宮区錦町630ルミネ15F a schema1:PostalAddress ;
+    rdfs:label "埼玉県さいたま市大宮区錦町630ルミネ15F" .
+
+ex:埼玉県さいたま市大宮区錦町630ルミネ2ルミネ大宮2F西口別館店 a schema1:PostalAddress ;
+    rdfs:label "埼玉県さいたま市大宮区錦町630ルミネ2ルミネ大宮2F西口別館店" .
+
+ex:埼玉県さいたま市浦和区北浦和3-3-5JR北浦和駅構内 a schema1:PostalAddress ;
+    rdfs:label "埼玉県さいたま市浦和区北浦和3-3-5JR北浦和駅構内" .
+
+ex:埼玉県さいたま市浦和区東高砂町11-1浦和パルコ3F a schema1:PostalAddress ;
+    rdfs:label "埼玉県さいたま市浦和区東高砂町11-1浦和パルコ3F" .
+
+ex:埼玉県さいたま市緑区大門3710イオンモール浦和美園1F a schema1:PostalAddress ;
+    rdfs:label "埼玉県さいたま市緑区大門3710イオンモール浦和美園1F" .
+
+ex:埼玉県三郷市新三郷ららシティ3-1-1ららぽーと新三郷 a schema1:PostalAddress ;
+    rdfs:label "埼玉県三郷市新三郷ららシティ3-1-1ららぽーと新三郷" .
+
+ex:埼玉県上尾市愛石3-8-1イオンモール上尾１F a schema1:PostalAddress ;
+    rdfs:label "埼玉県上尾市愛石3-8-1イオンモール上尾１F" .
+
+ex:埼玉県久喜市菖蒲町菖蒲6005-1モラージュ菖蒲1F a schema1:PostalAddress ;
+    rdfs:label "埼玉県久喜市菖蒲町菖蒲6005-1モラージュ菖蒲1F" .
+
+ex:埼玉県富士見市山室1-1313ららぽーと富士見1F a schema1:PostalAddress ;
+    rdfs:label "埼玉県富士見市山室1-1313ららぽーと富士見1F" .
+
+ex:埼玉県川口市前川1-1-11イオンモール川口前川1F a schema1:PostalAddress ;
+    rdfs:label "埼玉県川口市前川1-1-11イオンモール川口前川1F" .
+
+ex:埼玉県川口市安行領根岸3180番地イオンモール川口２F a schema1:PostalAddress ;
+    rdfs:label "埼玉県川口市安行領根岸3180番地イオンモール川口２F" .
+
+ex:埼玉県川口市栄町3-5-1三井ショッピングパークららテラス川口１F a schema1:PostalAddress ;
+    rdfs:label "埼玉県川口市栄町3-5-1三井ショッピングパークららテラス川口１F" .
+
+ex:埼玉県川口市栄町3丁目1-24JR川口駅2F改札外 a schema1:PostalAddress ;
+    rdfs:label "埼玉県川口市栄町3丁目1-24JR川口駅2F改札外" .
+
+ex:埼玉県川越市脇田町105番地アトレマルヒロ川越３F a schema1:PostalAddress ;
+    rdfs:label "埼玉県川越市脇田町105番地アトレマルヒロ川越３F" .
+
+ex:埼玉県戸田市本町4-15-1戸田公園ショッピングセンター2階 a schema1:PostalAddress ;
+    rdfs:label "埼玉県戸田市本町4-15-1戸田公園ショッピングセンター2階" .
+
+ex:埼玉県戸田市美女木東1-3-1イオンモール北戸田2F a schema1:PostalAddress ;
+    rdfs:label "埼玉県戸田市美女木東1-3-1イオンモール北戸田2F" .
+
+ex:埼玉県所沢市くすのき台1-14-5グランエミオ所沢1F a schema1:PostalAddress ;
+    rdfs:label "埼玉県所沢市くすのき台1-14-5グランエミオ所沢1F" .
+
+ex:埼玉県所沢市東住吉10-1エミテラス所沢1F a schema1:PostalAddress ;
+    rdfs:label "埼玉県所沢市東住吉10-1エミテラス所沢1F" .
+
+ex:埼玉県新座市東北2-38-10エキア志木1F a schema1:PostalAddress ;
+    rdfs:label "埼玉県新座市東北2-38-10エキア志木1F" .
+
+ex:埼玉県春日部市下柳420-1イオンモール春日部1F a schema1:PostalAddress ;
+    rdfs:label "埼玉県春日部市下柳420-1イオンモール春日部1F" .
+
+<https://23X3138.github.io/HU_F5/3coins_output.ttl#埼玉県春日部市南1丁目1‐1> a schema1:PostalAddress ;
+    rdfs:label "埼玉県春日部市南1丁目1‐1" .
+
+ex:埼玉県朝霞市本町2-13-1東武東上線朝霞駅構内エキア朝霞2F a schema1:PostalAddress ;
+    rdfs:label "埼玉県朝霞市本町2-13-1東武東上線朝霞駅構内エキア朝霞2F" .
+
+ex:埼玉県熊谷市筑波2-115アズ熊谷2F a schema1:PostalAddress ;
+    rdfs:label "埼玉県熊谷市筑波2-115アズ熊谷2F" .
+
+ex:埼玉県羽生市川崎2-281-3イオンモール羽生3F-357 a schema1:PostalAddress ;
+    rdfs:label "埼玉県羽生市川崎2-281-3イオンモール羽生3F-357" .
+
+ex:埼玉県草加市氷川町1970草加VARIE2 a schema1:PostalAddress ;
+    rdfs:label "埼玉県草加市氷川町1970草加VARIE2" .
+
+ex:埼玉県越谷市レイクタウン4-2-2イオンレイクタウンkaze1F a schema1:PostalAddress ;
+    rdfs:label "埼玉県越谷市レイクタウン4-2-2イオンレイクタウンkaze1F" .
+
+ex:埼玉県越谷市南越谷1-11-4新越谷ヴァリエ2F a schema1:PostalAddress ;
+    rdfs:label "埼玉県越谷市南越谷1-11-4新越谷ヴァリエ2F" .
+
+ex:大分県中津市三佐知1032イオンモール三光1F a schema1:PostalAddress ;
+    rdfs:label "大分県中津市三佐知1032イオンモール三光1F" .
+
+ex:大分県大分市公園通り西2-1パークプレイス大分1F a schema1:PostalAddress ;
+    rdfs:label "大分県大分市公園通り西2-1パークプレイス大分1F" .
+
+ex:大分県大分市大字玉沢字楠本755-1トキハわさだタウン2街区1F a schema1:PostalAddress ;
+    rdfs:label "大分県大分市大字玉沢字楠本755-1トキハわさだタウン2街区1F" .
+
+ex:大分県大分市要町1-14アミュプラザおおいた3F a schema1:PostalAddress ;
+    rdfs:label "大分県大分市要町1-14アミュプラザおおいた3F" .
+
+ex:大阪府八尾市光町2-3アリオ八尾2F a schema1:PostalAddress ;
+    rdfs:label "大阪府八尾市光町2-3アリオ八尾2F" .
+
+ex:大阪府吹田市千里万博公園2-1ららぽーとEXPOCITY1F a schema1:PostalAddress ;
+    rdfs:label "大阪府吹田市千里万博公園2-1ららぽーとEXPOCITY1F" .
+
+ex:大阪府和泉市あゆみ野4-4-7ららぽーと和泉2F a schema1:PostalAddress ;
+    rdfs:label "大阪府和泉市あゆみ野4-4-7ららぽーと和泉2F" .
+
+ex:大阪府四條畷市砂4-3-2イオンモール四條畷3F a schema1:PostalAddress ;
+    rdfs:label "大阪府四條畷市砂4-3-2イオンモール四條畷3F" .
+
+ex:大阪府堺市北区東浅香山町4-1-12イオンモール堺北花田1F a schema1:PostalAddress ;
+    rdfs:label "大阪府堺市北区東浅香山町4-1-12イオンモール堺北花田1F" .
+
+ex:大阪府堺市南区茶山台1-3-1泉北パンジョ3F a schema1:PostalAddress ;
+    rdfs:label "大阪府堺市南区茶山台1-3-1泉北パンジョ3F" .
+
+ex:大阪府堺市堺区鉄砲町1番地イオンモール堺鉄砲町1F a schema1:PostalAddress ;
+    rdfs:label "大阪府堺市堺区鉄砲町1番地イオンモール堺鉄砲町1F" .
+
+ex:大阪府堺市美原区黒山22-1ららぽーと堺3F a schema1:PostalAddress ;
+    rdfs:label "大阪府堺市美原区黒山22-1ららぽーと堺3F" .
+
+ex:大阪府堺市西区鳳南町3丁目199番地12アリオ鳳1F a schema1:PostalAddress ;
+    rdfs:label "大阪府堺市西区鳳南町3丁目199番地12アリオ鳳1F" .
+
+ex:大阪府大阪市中央区南船場3長堀地下街4-74 a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市中央区南船場3長堀地下街4-74" .
+
+ex:大阪府大阪市中央区天満橋京町1-1京阪シティモール2Ｆ a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市中央区天満橋京町1-1京阪シティモール2Ｆ" .
+
+ex:大阪府大阪市中央区難波1丁目虹のまち3-2号 a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市中央区難波1丁目虹のまち3-2号" .
+
+ex:大阪府大阪市中央区難波5-1-60なんばCITY本館地下2F a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市中央区難波5-1-60なんばCITY本館地下2F" .
+
+ex:大阪府大阪市中央区難波5丁目なんなんタウン1号 a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市中央区難波5丁目なんなんタウン1号" .
+
+ex:大阪府大阪市北区大深町1番1号ヨドバシ梅田タワーLINKSUMEDA3F a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市北区大深町1番1号ヨドバシ梅田タワーLINKSUMEDA3F" .
+
+ex:大阪府大阪市北区小松原町梅田地下街4-6ホワイティ梅田イーストモール扇町 a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市北区小松原町梅田地下街4-6ホワイティ梅田イーストモール扇町" .
+
+ex:大阪府大阪市北区梅田3-1-3ルクア大阪8F a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市北区梅田3-1-3ルクア大阪8F" .
+
+ex:大阪府大阪市北区梅田3-1-3ルクア大阪地下1F a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市北区梅田3-1-3ルクア大阪地下1F" .
+
+ex:大阪府大阪市北区芝田1-1-3阪急三番街南館1F a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市北区芝田1-1-3阪急三番街南館1F" .
+
+ex:大阪府大阪市北区角田町5-15HEPFIVE6F a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市北区角田町5-15HEPFIVE6F" .
+
+ex:大阪府大阪市天王寺区悲田院町10-48天王寺MIOプラザ館2F a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市天王寺区悲田院町10-48天王寺MIOプラザ館2F" .
+
+ex:大阪府大阪市西区千代崎三丁目13番1イオンモール大阪ドームシティ2F a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市西区千代崎三丁目13番1イオンモール大阪ドームシティ2F" .
+
+ex:大阪府大阪市都島区東野田町2-1-38京阪モール本館1F a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市都島区東野田町2-1-38京阪モール本館1F" .
+
+ex:大阪府大阪市阿倍野区阿倍野筋1丁目6番1号あべのキューズモール1F a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市阿倍野区阿倍野筋1丁目6番1号あべのキューズモール1F" .
+
+ex:大阪府大阪市鶴見区鶴見4-17-1イオンモール鶴見緑地2F a schema1:PostalAddress ;
+    rdfs:label "大阪府大阪市鶴見区鶴見4-17-1イオンモール鶴見緑地2F" .
+
+ex:大阪府守口市大日東町1-18イオンモール大日2F a schema1:PostalAddress ;
+    rdfs:label "大阪府守口市大日東町1-18イオンモール大日2F" .
+
+ex:大阪府東大阪市長堂1丁目1-52ロンモール布施ぷらっと2F a schema1:PostalAddress ;
+    rdfs:label "大阪府東大阪市長堂1丁目1-52ロンモール布施ぷらっと2F" .
+
+ex:大阪府松原市天美東3丁目500番地セブンパーク天美1F a schema1:PostalAddress ;
+    rdfs:label "大阪府松原市天美東3丁目500番地セブンパーク天美1F" .
+
+ex:大阪府枚方市岡東町19-1枚方モール1F a schema1:PostalAddress ;
+    rdfs:label "大阪府枚方市岡東町19-1枚方モール1F" .
+
+ex:大阪府枚方市楠葉花園町15-1くずはモール本館2F a schema1:PostalAddress ;
+    rdfs:label "大阪府枚方市楠葉花園町15-1くずはモール本館2F" .
+
+ex:大阪府泉佐野市日根野2496-1イオンモール日根野1F a schema1:PostalAddress ;
+    rdfs:label "大阪府泉佐野市日根野2496-1イオンモール日根野1F" .
+
+ex:大阪府泉南市りんくう南浜3-12イオンモールりんくう泉南2F a schema1:PostalAddress ;
+    rdfs:label "大阪府泉南市りんくう南浜3-12イオンモールりんくう泉南2F" .
+
+ex:大阪府茨木市城の前町2番地1イオンタウン茨木太田本館1F a schema1:PostalAddress ;
+    rdfs:label "大阪府茨木市城の前町2番地1イオンタウン茨木太田本館1F" .
+
+ex:大阪府茨木市松ケ本町8-30イオンモール茨木1F a schema1:PostalAddress ;
+    rdfs:label "大阪府茨木市松ケ本町8-30イオンモール茨木1F" .
+
+ex:大阪府豊中市新千里東町１丁目3-229せんちゅうパル2F a schema1:PostalAddress ;
+    rdfs:label "大阪府豊中市新千里東町１丁目3-229せんちゅうパル2F" .
+
+ex:大阪府門真市松生町1-11ららぽーと門真1F17000 a schema1:PostalAddress ;
+    rdfs:label "大阪府門真市松生町1-11ららぽーと門真1F17000" .
+
+ex:大阪府高槻市白梅町4-1高槻阪急スクエア1F a schema1:PostalAddress ;
+    rdfs:label "大阪府高槻市白梅町4-1高槻阪急スクエア1F" .
+
+ex:奈良県吉野郡下市町善城664-1 a schema1:PostalAddress ;
+    rdfs:label "奈良県吉野郡下市町善城664-1" .
+
+ex:奈良県大和郡山市下三橋町741イオンモール大和郡山2F a schema1:PostalAddress ;
+    rdfs:label "奈良県大和郡山市下三橋町741イオンモール大和郡山2F" .
+
+ex:奈良県奈良市西大寺東町2-4-1ならファミリー3F a schema1:PostalAddress ;
+    rdfs:label "奈良県奈良市西大寺東町2-4-1ならファミリー3F" .
+
+ex:奈良県橿原市曲川町7-20-1302イオンモール橿原3F a schema1:PostalAddress ;
+    rdfs:label "奈良県橿原市曲川町7-20-1302イオンモール橿原3F" .
+
+ex:宮城県仙台市太白区長町7-20-3ザモール仙台長町本館3F a schema1:PostalAddress ;
+    rdfs:label "宮城県仙台市太白区長町7-20-3ザモール仙台長町本館3F" .
+
+ex:宮城県仙台市泉区寺岡6-5-1泉パークタウンタピオ南館1F a schema1:PostalAddress ;
+    rdfs:label "宮城県仙台市泉区寺岡6-5-1泉パークタウンタピオ南館1F" .
+
+ex:宮城県仙台市青葉区中央2-6-4雫石ビル1F a schema1:PostalAddress ;
+    rdfs:label "宮城県仙台市青葉区中央2-6-4雫石ビル1F" .
+
+ex:宮城県名取市杜せきのした5-3-1イオンモール名取2F a schema1:PostalAddress ;
+    rdfs:label "宮城県名取市杜せきのした5-3-1イオンモール名取2F" .
+
+ex:宮城県宮城郡利府町新中道3丁目1-1イオンモール新利府南館3F a schema1:PostalAddress ;
+    rdfs:label "宮城県宮城郡利府町新中道3丁目1-1イオンモール新利府南館3F" .
+
+ex:宮城県石巻市茜平4丁目104番地1F a schema1:PostalAddress ;
+    rdfs:label "宮城県石巻市茜平4丁目104番地1F" .
+
+ex:宮崎県宮崎市新別府町江口862-1イオンモール宮崎2F a schema1:PostalAddress ;
+    rdfs:label "宮崎県宮崎市新別府町江口862-1イオンモール宮崎2F" .
+
+ex:富山県富山市婦中町下轡田165-1ファボーレ富山2F a schema1:PostalAddress ;
+    rdfs:label "富山県富山市婦中町下轡田165-1ファボーレ富山2F" .
+
+ex:富山県富山市明輪町1番231号JR富山駅ビルMAROOT2F a schema1:PostalAddress ;
+    rdfs:label "富山県富山市明輪町1番231号JR富山駅ビルMAROOT2F" .
+
+ex:富山県高岡市下伏間江383イオンモール高岡東館2階 a schema1:PostalAddress ;
+    rdfs:label "富山県高岡市下伏間江383イオンモール高岡東館2階" .
+
+ex:山口県下松市中央町21-3ゆめタウン下松3F a schema1:PostalAddress ;
+    rdfs:label "山口県下松市中央町21-3ゆめタウン下松3F" .
+
+ex:山口県山口市大内千坊6丁目9-1ゆめタウン山口1F a schema1:PostalAddress ;
+    rdfs:label "山口県山口市大内千坊6丁目9-1ゆめタウン山口1F" .
+
+ex:山形県天童市芳賀タウン北4-1-1イオンモール天童1F a schema1:PostalAddress ;
+    rdfs:label "山形県天童市芳賀タウン北4-1-1イオンモール天童1F" .
+
+ex:山形県山形市若宮3-7-8イオンモール山形南1F a schema1:PostalAddress ;
+    rdfs:label "山形県山形市若宮3-7-8イオンモール山形南1F" .
+
+ex:山梨県中巨摩郡昭和町飯喰1505-1イオンモール甲府昭和3F a schema1:PostalAddress ;
+    rdfs:label "山梨県中巨摩郡昭和町飯喰1505-1イオンモール甲府昭和3F" .
+
+ex:岐阜県各務原市那加萱場町3-8イオンモール各務原インター3F a schema1:PostalAddress ;
+    rdfs:label "岐阜県各務原市那加萱場町3-8イオンモール各務原インター3F" .
+
+ex:岐阜県土岐市土岐津町土岐口1372-1イオンモール土岐1F a schema1:PostalAddress ;
+    rdfs:label "岐阜県土岐市土岐津町土岐口1372-1イオンモール土岐1F" .
+
+ex:岐阜県大垣市林町6丁目80番地21アクアウォーク大垣1F a schema1:PostalAddress ;
+    rdfs:label "岐阜県大垣市林町6丁目80番地21アクアウォーク大垣1F" .
+
+ex:岐阜県岐阜市柳津町丸野3-3-6カラフルタウン岐阜1F a schema1:PostalAddress ;
+    rdfs:label "岐阜県岐阜市柳津町丸野3-3-6カラフルタウン岐阜1F" .
+
+ex:岐阜県本巣市三橋1100モレラ岐阜2F a schema1:PostalAddress ;
+    rdfs:label "岐阜県本巣市三橋1100モレラ岐阜2F" .
+
+ex:岐阜県関市倉知516マーゴ本館1階 a schema1:PostalAddress ;
+    rdfs:label "岐阜県関市倉知516マーゴ本館1階" .
+
+ex:岡山県倉敷市水江1イオンモール倉敷2F a schema1:PostalAddress ;
+    rdfs:label "岡山県倉敷市水江1イオンモール倉敷2F" .
+
+ex:岡山県岡山市北区下石井1-2-1イオンモール岡山3F a schema1:PostalAddress ;
+    rdfs:label "岡山県岡山市北区下石井1-2-1イオンモール岡山3F" .
+
+ex:岩手県盛岡市本宮7-1-1イオンモール盛岡南1F a schema1:PostalAddress ;
+    rdfs:label "岩手県盛岡市本宮7-1-1イオンモール盛岡南1F" .
+
+ex:岩手県盛岡市盛岡駅前通1-44盛岡駅フェザン本館1F a schema1:PostalAddress ;
+    rdfs:label "岩手県盛岡市盛岡駅前通1-44盛岡駅フェザン本館1F" .
+
+ex:島根県出雲市大塚町650-1東館2階 a schema1:PostalAddress ;
+    rdfs:label "島根県出雲市大塚町650-1東館2階" .
+
+ex:広島県安芸郡府中町大須2-1-1イオンモール広島府中2F a schema1:PostalAddress ;
+    rdfs:label "広島県安芸郡府中町大須2-1-1イオンモール広島府中2F" .
+
+ex:広島県広島市中区本通9-27 a schema1:PostalAddress ;
+    rdfs:label "広島県広島市中区本通9-27" .
+
+ex:広島県広島市佐伯区石内東4-1-1THEOUTLETSHIROSHIMA2階 a schema1:PostalAddress ;
+    rdfs:label "広島県広島市佐伯区石内東4-1-1THEOUTLETSHIROSHIMA2階" .
+
+ex:広島県広島市南区宇品西6丁目7-14ゆめタウンみゆき1F a schema1:PostalAddress ;
+    rdfs:label "広島県広島市南区宇品西6丁目7-14ゆめタウンみゆき1F" .
+
+ex:広島県広島市南区松原町2番37号minamoa4階 a schema1:PostalAddress ;
+    rdfs:label "広島県広島市南区松原町2番37号minamoa4階" .
+
+ex:広島県広島市南区皆実町2-8-17ゆめタウン広島1F a schema1:PostalAddress ;
+    rdfs:label "広島県広島市南区皆実町2-8-17ゆめタウン広島1F" .
+
+ex:広島県広島市安佐南区祇園3丁目2-1イオンモール広島祇園1F a schema1:PostalAddress ;
+    rdfs:label "広島県広島市安佐南区祇園3丁目2-1イオンモール広島祇園1F" .
+
+ex:広島県広島市西区扇2丁目1番45号LECT1F a schema1:PostalAddress ;
+    rdfs:label "広島県広島市西区扇2丁目1番45号LECT1F" .
+
+ex:広島県廿日市市下平良2丁目2番1号ゆめタウン廿日市1F区画161 a schema1:PostalAddress ;
+    rdfs:label "広島県廿日市市下平良2丁目2番1号ゆめタウン廿日市1F区画161" .
+
+ex:広島県福山市三之丸町30-1サンステーションテラス福山第207-1号 a schema1:PostalAddress ;
+    rdfs:label "広島県福山市三之丸町30-1サンステーションテラス福山第207-1号" .
+
+ex:広島県福山市入船町3-1-60ゆめタウン福山1F a schema1:PostalAddress ;
+    rdfs:label "広島県福山市入船町3-1-60ゆめタウン福山1F" .
+
+ex:徳島県板野郡藍住町奥野字東中須88-1ゆめタウン徳島2F a schema1:PostalAddress ;
+    rdfs:label "徳島県板野郡藍住町奥野字東中須88-1ゆめタウン徳島2F" .
+
+ex:愛媛県伊予郡松前町筒井850エミフルMASAKI2Ｆ a schema1:PostalAddress ;
+    rdfs:label "愛媛県伊予郡松前町筒井850エミフルMASAKI2Ｆ" .
+
+ex:愛媛県新居浜市前田町8-8イオンモール新居浜1F a schema1:PostalAddress ;
+    rdfs:label "愛媛県新居浜市前田町8-8イオンモール新居浜1F" .
+
+ex:愛知県一宮市木曽川町黒田字南八ツケ池25-1イオンモール木曽川1F a schema1:PostalAddress ;
+    rdfs:label "愛知県一宮市木曽川町黒田字南八ツケ池25-1イオンモール木曽川1F" .
+
+ex:愛知県名古屋市中区栄3丁目4-5メルサ栄本店4F a schema1:PostalAddress ;
+    rdfs:label "愛知県名古屋市中区栄3丁目4-5メルサ栄本店4F" .
+
+ex:愛知県名古屋市中村区名駅1丁目1-2名古屋ゲートウォーク a schema1:PostalAddress ;
+    rdfs:label "愛知県名古屋市中村区名駅1丁目1-2名古屋ゲートウォーク" .
+
+ex:愛知県名古屋市東区矢田南4-102-3イオンモールナゴヤドーム前2F a schema1:PostalAddress ;
+    rdfs:label "愛知県名古屋市東区矢田南4-102-3イオンモールナゴヤドーム前2F" .
+
+ex:愛知県名古屋市港区港明2丁目3番2号ららぽーと名古屋みなとアクルス1F a schema1:PostalAddress ;
+    rdfs:label "愛知県名古屋市港区港明2丁目3番2号ららぽーと名古屋みなとアクルス1F" .
+
+ex:愛知県名古屋市港区西茶屋2丁目11イオンモール名古屋茶屋店1F a schema1:PostalAddress ;
+    rdfs:label "愛知県名古屋市港区西茶屋2丁目11イオンモール名古屋茶屋店1F" .
+
+ex:愛知県名古屋市熱田区六野一丁目2番11号イオンモール熱田1階 a schema1:PostalAddress ;
+    rdfs:label "愛知県名古屋市熱田区六野一丁目2番11号イオンモール熱田1階" .
+
+ex:愛知県名古屋市緑区南大高2丁目450番地イオンモール大高1F a schema1:PostalAddress ;
+    rdfs:label "愛知県名古屋市緑区南大高2丁目450番地イオンモール大高1F" .
+
+ex:愛知県名古屋市西区二方町40mozoワンダーシティ3F a schema1:PostalAddress ;
+    rdfs:label "愛知県名古屋市西区二方町40mozoワンダーシティ3F" .
+
+ex:愛知県名古屋市西区則武新町3丁目1番17号イオンモールNagoyaNoritakeGarden２F a schema1:PostalAddress ;
+    rdfs:label "愛知県名古屋市西区則武新町3丁目1番17号イオンモールNagoyaNoritakeGarden２F" .
+
+ex:愛知県安城市大東町9-301階16900 a schema1:PostalAddress ;
+    rdfs:label "愛知県安城市大東町9-301階16900" .
+
+ex:愛知県岡崎市戸崎町字外山38-5イオンモール岡崎3F a schema1:PostalAddress ;
+    rdfs:label "愛知県岡崎市戸崎町字外山38-5イオンモール岡崎3F" .
+
+<https://23X3138.github.io/HU_F5/3coins_output.ttl#愛知県愛知郡東郷町東郷中央土地区画整理事業62街区1・3ららぽーと愛知東郷2F> a schema1:PostalAddress ;
+    rdfs:label "愛知県愛知郡東郷町東郷中央土地区画整理事業62街区1・3ららぽーと愛知東郷2F" .
+
+ex:愛知県日進市赤池町箕ノ手1プライムツリー赤池1F a schema1:PostalAddress ;
+    rdfs:label "愛知県日進市赤池町箕ノ手1プライムツリー赤池1F" .
+
+ex:愛知県春日井市六軒屋町字東丘22イーアス春日井1F a schema1:PostalAddress ;
+    rdfs:label "愛知県春日井市六軒屋町字東丘22イーアス春日井1F" .
+
+ex:愛知県稲沢市天池五反田町1番地アピタタウン稲沢1F a schema1:PostalAddress ;
+    rdfs:label "愛知県稲沢市天池五反田町1番地アピタタウン稲沢1F" .
+
+ex:愛知県稲沢市長野7丁目1-2リーフウォーク稲沢1階 a schema1:PostalAddress ;
+    rdfs:label "愛知県稲沢市長野7丁目1-2リーフウォーク稲沢1階" .
+
+ex:愛知県西尾市高畠町3丁目166-4ヴェルサウォーク西尾1F区画124 a schema1:PostalAddress ;
+    rdfs:label "愛知県西尾市高畠町3丁目166-4ヴェルサウォーク西尾1F区画124" .
+
+ex:愛知県豊川市白鳥町兎足1-16イオンモール豊川3F区画351 a schema1:PostalAddress ;
+    rdfs:label "愛知県豊川市白鳥町兎足1-16イオンモール豊川3F区画351" .
+
+ex:新潟県新潟市中央区花園1-1-1JR新潟駅CoCoLo2F a schema1:PostalAddress ;
+    rdfs:label "新潟県新潟市中央区花園1-1-1JR新潟駅CoCoLo2F" .
+
+ex:新潟県新潟市江南区下早通柳田1-1-1イオンモール新潟亀田インター3F a schema1:PostalAddress ;
+    rdfs:label "新潟県新潟市江南区下早通柳田1-1-1イオンモール新潟亀田インター3F" .
+
+ex:東京都三鷹市下連雀3丁目46-4アトレヴィ三鷹4F a schema1:PostalAddress ;
+    rdfs:label "東京都三鷹市下連雀3丁目46-4アトレヴィ三鷹4F" .
+
+ex:東京都世田谷区北沢2-25-19ピアザ近江屋ビル a schema1:PostalAddress ;
+    rdfs:label "東京都世田谷区北沢2-25-19ピアザ近江屋ビル" .
+
+<https://23X3138.github.io/HU_F5/3coins_output.ttl#東京都世田谷区太子堂4-1-1キャロットタワー1F「CarrotSt.SANCHA」> a schema1:PostalAddress ;
+    rdfs:label "東京都世田谷区太子堂4-1-1キャロットタワー1F「CarrotSt.SANCHA」" .
+
+ex:東京都世田谷区玉川2-21-1二子玉川ライズステーションマーケット1F a schema1:PostalAddress ;
+    rdfs:label "東京都世田谷区玉川2-21-1二子玉川ライズステーションマーケット1F" .
+
+ex:東京都中央区八重洲2-1八重洲地下街南1号 a schema1:PostalAddress ;
+    rdfs:label "東京都中央区八重洲2-1八重洲地下街南1号" .
+
+ex:東京都中央区銀座4-1西銀座デパート2F a schema1:PostalAddress ;
+    rdfs:label "東京都中央区銀座4-1西銀座デパート2F" .
+
+ex:東京都八王子市旭町1-1セレオ八王子北館3F a schema1:PostalAddress ;
+    rdfs:label "東京都八王子市旭町1-1セレオ八王子北館3F" .
+
+ex:東京都千代田区丸の内1-9-1JR東日本東京駅構内1階 a schema1:PostalAddress ;
+    rdfs:label "東京都千代田区丸の内1-9-1JR東日本東京駅構内1階" .
+
+ex:東京都千代田区外神田1-17-6アトレ秋葉原13F a schema1:PostalAddress ;
+    rdfs:label "東京都千代田区外神田1-17-6アトレ秋葉原13F" .
+
+ex:東京都台東区上野7-1-1JR駅構内3Fecute上野内 a schema1:PostalAddress ;
+    rdfs:label "東京都台東区上野7-1-1JR駅構内3Fecute上野内" .
+
+ex:東京都台東区東上野3-19-6銀座線上野駅構内エチカフィット上野B1F a schema1:PostalAddress ;
+    rdfs:label "東京都台東区東上野3-19-6銀座線上野駅構内エチカフィット上野B1F" .
+
+ex:東京都台東区浅草1-25-15浅草ROX2F a schema1:PostalAddress ;
+    rdfs:label "東京都台東区浅草1-25-15浅草ROX2F" .
+
+ex:東京都品川区上大崎2丁目16-9アトレ目黒13F a schema1:PostalAddress ;
+    rdfs:label "東京都品川区上大崎2丁目16-9アトレ目黒13F" .
+
+ex:東京都品川区大井1-2-1アトレ大井町3F a schema1:PostalAddress ;
+    rdfs:label "東京都品川区大井1-2-1アトレ大井町3F" .
+
+ex:東京都国分寺市南町3丁目20-3セレオ国分寺4F a schema1:PostalAddress ;
+    rdfs:label "東京都国分寺市南町3丁目20-3セレオ国分寺4F" .
+
+ex:東京都墨田区錦糸2-2-1アルカキット錦糸町3F a schema1:PostalAddress ;
+    rdfs:label "東京都墨田区錦糸2-2-1アルカキット錦糸町3F" .
+
+ex:東京都多摩市落合1丁目46-1 a schema1:PostalAddress ;
+    rdfs:label "東京都多摩市落合1丁目46-1" .
+
+ex:東京都多摩市関戸1-10-1京王聖蹟桜ヶ丘ショッピングセンター5Ｆ a schema1:PostalAddress ;
+    rdfs:label "東京都多摩市関戸1-10-1京王聖蹟桜ヶ丘ショッピングセンター5Ｆ" .
+
+ex:東京都大田区大森北1-6-16アトレ大森12F a schema1:PostalAddress ;
+    rdfs:label "東京都大田区大森北1-6-16アトレ大森12F" .
+
+ex:東京都大田区西蒲田7-69-1東急プラザ蒲田3F a schema1:PostalAddress ;
+    rdfs:label "東京都大田区西蒲田7-69-1東急プラザ蒲田3F" .
+
+ex:東京都小金井市本町5-1-20nonowa武蔵小金井WESTエリア1F a schema1:PostalAddress ;
+    rdfs:label "東京都小金井市本町5-1-20nonowa武蔵小金井WESTエリア1F" .
+
+ex:東京都文京区春日1-1-1東京ドームシティラクーア2階 a schema1:PostalAddress ;
+    rdfs:label "東京都文京区春日1-1-1東京ドームシティラクーア2階" .
+
+ex:東京都新宿区新宿3-38-1JR新宿駅構内南改札内 a schema1:PostalAddress ;
+    rdfs:label "東京都新宿区新宿3-38-1JR新宿駅構内南改札内" .
+
+ex:東京都新宿区新宿3-38-1ルミネエスト新宿3F a schema1:PostalAddress ;
+    rdfs:label "東京都新宿区新宿3-38-1ルミネエスト新宿3F" .
+
+ex:東京都新宿区歌舞伎町1-30-1西武新宿ぺぺ3階 a schema1:PostalAddress ;
+    rdfs:label "東京都新宿区歌舞伎町1-30-1西武新宿ぺぺ3階" .
+
+ex:東京都新宿区神楽坂1-13東京メトロ飯田橋駅B1階改札前 a schema1:PostalAddress ;
+    rdfs:label "東京都新宿区神楽坂1-13東京メトロ飯田橋駅B1階改札前" .
+
+ex:東京都新宿区高田馬場1-35-3EmioStyleBIGBOX高田馬場1F a schema1:PostalAddress ;
+    rdfs:label "東京都新宿区高田馬場1-35-3EmioStyleBIGBOX高田馬場1F" .
+
+ex:東京都杉並区上萩1-7-1ルミネ荻窪4F a schema1:PostalAddress ;
+    rdfs:label "東京都杉並区上萩1-7-1ルミネ荻窪4F" .
+
+ex:東京都杉並区阿佐ヶ谷南3丁目58-1ビーンズ阿佐ヶ谷2F a schema1:PostalAddress ;
+    rdfs:label "東京都杉並区阿佐ヶ谷南3丁目58-1ビーンズ阿佐ヶ谷2F" .
+
+ex:東京都武蔵野市吉祥寺南町1-1-24アトレ吉祥寺東館B1F a schema1:PostalAddress ;
+    rdfs:label "東京都武蔵野市吉祥寺南町1-1-24アトレ吉祥寺東館B1F" .
+
+ex:東京都武蔵野市吉祥寺本町2-3-1東急百貨店吉祥寺店5F a schema1:PostalAddress ;
+    rdfs:label "東京都武蔵野市吉祥寺本町2-3-1東急百貨店吉祥寺店5F" .
+
+ex:東京都江戸川区南小岩7丁目24-15シャポー小岩1F a schema1:PostalAddress ;
+    rdfs:label "東京都江戸川区南小岩7丁目24-15シャポー小岩1F" .
+
+ex:東京都江東区亀戸5-1-1アトレ亀戸4F a schema1:PostalAddress ;
+    rdfs:label "東京都江東区亀戸5-1-1アトレ亀戸4F" .
+
+ex:東京都江東区北砂2-17-1アリオモール1F a schema1:PostalAddress ;
+    rdfs:label "東京都江東区北砂2-17-1アリオモール1F" .
+
+ex:東京都江東区新砂3丁目4-31南砂町ショッピングセンターSUMAMO2階 a schema1:PostalAddress ;
+    rdfs:label "東京都江東区新砂3丁目4-31南砂町ショッピングセンターSUMAMO2階" .
+
+ex:東京都渋谷区神宮前6-12-22秋田ビル1F a schema1:PostalAddress ;
+    rdfs:label "東京都渋谷区神宮前6-12-22秋田ビル1F" .
+
+ex:東京都港区新橋2-17-14JR新橋駅構内B1F a schema1:PostalAddress ;
+    rdfs:label "東京都港区新橋2-17-14JR新橋駅構内B1F" .
+
+<https://23X3138.github.io/HU_F5/3coins_output.ttl#東京都町田市原町田6丁目1－6町田マルイ2階> a schema1:PostalAddress ;
+    rdfs:label "東京都町田市原町田6丁目1－6町田マルイ2階" .
+
+ex:東京都町田市原町田6丁目2-6町田モディ3F a schema1:PostalAddress ;
+    rdfs:label "東京都町田市原町田6丁目2-6町田モディ3F" .
+
+ex:東京都立川市柴崎町3-2-1グランデュオ立川3F a schema1:PostalAddress ;
+    rdfs:label "東京都立川市柴崎町3-2-1グランデュオ立川3F" .
+
+ex:東京都立川市泉町935-1ららぽーと立川立飛1F a schema1:PostalAddress ;
+    rdfs:label "東京都立川市泉町935-1ららぽーと立川立飛1F" .
+
+ex:東京都葛飾区亀有3-49-3アリオ亀有3F a schema1:PostalAddress ;
+    rdfs:label "東京都葛飾区亀有3-49-3アリオ亀有3F" .
+
+ex:東京都西多摩郡日の出町平井字三吉野桜木237-3イオンモール日の出2F a schema1:PostalAddress ;
+    rdfs:label "東京都西多摩郡日の出町平井字三吉野桜木237-3イオンモール日の出2F" .
+
+ex:東京都調布市小島町１丁目38-1調布パルコ3F a schema1:PostalAddress ;
+    rdfs:label "東京都調布市小島町１丁目38-1調布パルコ3F" .
+
+ex:東京都豊島区南池袋1-29-1池袋ショッピングパークB1F a schema1:PostalAddress ;
+    rdfs:label "東京都豊島区南池袋1-29-1池袋ショッピングパークB1F" .
+
+ex:東京都豊島区東池袋3-1-2サンシャインシティアルパB1F a schema1:PostalAddress ;
+    rdfs:label "東京都豊島区東池袋3-1-2サンシャインシティアルパB1F" .
+
+ex:東京都豊島区西池袋1-11-1ルミネ池袋5F a schema1:PostalAddress ;
+    rdfs:label "東京都豊島区西池袋1-11-1ルミネ池袋5F" .
+
+ex:東京都足立区千住旭町42-2ルミネ北千住6F a schema1:PostalAddress ;
+    rdfs:label "東京都足立区千住旭町42-2ルミネ北千住6F" .
+
+ex:栃木県佐野市高萩町1324-1イオンモール佐野新都市1F a schema1:PostalAddress ;
+    rdfs:label "栃木県佐野市高萩町1324-1イオンモール佐野新都市1F" .
+
+ex:栃木県宇都宮市インターパーク4-1-3宇都宮インターパークビレッジ１F a schema1:PostalAddress ;
+    rdfs:label "栃木県宇都宮市インターパーク4-1-3宇都宮インターパークビレッジ１F" .
+
+ex:栃木県宇都宮市陽東6-2-1ベルモール1F a schema1:PostalAddress ;
+    rdfs:label "栃木県宇都宮市陽東6-2-1ベルモール1F" .
+
+ex:栃木県小山市喜沢1475 a schema1:PostalAddress ;
+    rdfs:label "栃木県小山市喜沢1475" .
+
+ex:沖縄県中頭郡北中城村字ライカム1番地イオンモール沖縄ライカム1Ｆ a schema1:PostalAddress ;
+    rdfs:label "沖縄県中頭郡北中城村字ライカム1番地イオンモール沖縄ライカム1Ｆ" .
+
+ex:沖縄県浦添市西洲3丁目1-1PARCOCITY1F a schema1:PostalAddress ;
+    rdfs:label "沖縄県浦添市西洲3丁目1-1PARCOCITY1F" .
+
+ex:沖縄県那覇市おもろまち4-4-9那覇メインプレイス1Ｆ a schema1:PostalAddress ;
+    rdfs:label "沖縄県那覇市おもろまち4-4-9那覇メインプレイス1Ｆ" .
+
+ex:滋賀県守山市今浜町2620-5ピエリ守山1F a schema1:PostalAddress ;
+    rdfs:label "滋賀県守山市今浜町2620-5ピエリ守山1F" .
+
+ex:滋賀県草津市新浜町300イオンモール草津3F a schema1:PostalAddress ;
+    rdfs:label "滋賀県草津市新浜町300イオンモール草津3F" .
+
+ex:熊本県上益城郡嘉島町大字上島字長池2232イオンモール熊本1F a schema1:PostalAddress ;
+    rdfs:label "熊本県上益城郡嘉島町大字上島字長池2232イオンモール熊本1F" .
+
+ex:熊本県熊本市中央区上通町2-2New-S2F a schema1:PostalAddress ;
+    rdfs:label "熊本県熊本市中央区上通町2-2New-S2F" .
+
+ex:熊本県熊本市南区田井島1丁目2番1号ゆめタウンはません1F a schema1:PostalAddress ;
+    rdfs:label "熊本県熊本市南区田井島1丁目2番1号ゆめタウンはません1F" .
+
+ex:熊本県菊池郡菊陽町光の森7丁目33番地1ゆめタウン光の森2F a schema1:PostalAddress ;
+    rdfs:label "熊本県菊池郡菊陽町光の森7丁目33番地1ゆめタウン光の森2F" .
+
+ex:石川県かほく市内日角夕25イオンモールかほく1F a schema1:PostalAddress ;
+    rdfs:label "石川県かほく市内日角夕25イオンモールかほく1F" .
+
+ex:石川県小松市清六町315イオンモール新小松2F a schema1:PostalAddress ;
+    rdfs:label "石川県小松市清六町315イオンモール新小松2F" .
+
+ex:石川県白山市横江町5001イオンモール白山3F a schema1:PostalAddress ;
+    rdfs:label "石川県白山市横江町5001イオンモール白山3F" .
+
+ex:石川県金沢市木ノ新保町1-1金沢百番街Rinto a schema1:PostalAddress ;
+    rdfs:label "石川県金沢市木ノ新保町1-1金沢百番街Rinto" .
+
+ex:神奈川県大和市中央林間4-6-3エトモ中央林間2F a schema1:PostalAddress ;
+    rdfs:label "神奈川県大和市中央林間4-6-3エトモ中央林間2F" .
+
+ex:神奈川県小田原市中里296-1ダイナシティEAST1F a schema1:PostalAddress ;
+    rdfs:label "神奈川県小田原市中里296-1ダイナシティEAST1F" .
+
+ex:神奈川県川崎市中原区小杉町3-472武蔵小杉東急スクエア3F a schema1:PostalAddress ;
+    rdfs:label "神奈川県川崎市中原区小杉町3-472武蔵小杉東急スクエア3F" .
+
+ex:神奈川県川崎市川崎区駅前本町26-1アトレ川崎1F a schema1:PostalAddress ;
+    rdfs:label "神奈川県川崎市川崎区駅前本町26-1アトレ川崎1F" .
+
+ex:神奈川県川崎市高津区溝口1-3-1 a schema1:PostalAddress ;
+    rdfs:label "神奈川県川崎市高津区溝口1-3-1" .
+
+ex:神奈川県川崎市麻生区上麻生1丁目1-1新百合ヶ丘オーパB1F a schema1:PostalAddress ;
+    rdfs:label "神奈川県川崎市麻生区上麻生1丁目1-1新百合ヶ丘オーパB1F" .
+
+ex:神奈川県平塚市大神8丁目1番1号THEOUTLETSSHONANHIRATSUKA1F1451区画 a schema1:PostalAddress ;
+    rdfs:label "神奈川県平塚市大神8丁目1番1号THEOUTLETSSHONANHIRATSUKA1F1451区画" .
+
+ex:神奈川県平塚市天沼10-1ららぽーと湘南平塚1F a schema1:PostalAddress ;
+    rdfs:label "神奈川県平塚市天沼10-1ららぽーと湘南平塚1F" .
+
+ex:神奈川県横浜市保土ヶ谷区川辺町3-5イオンスタイル天王町2F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市保土ヶ谷区川辺町3-5イオンスタイル天王町2F" .
+
+ex:神奈川県横浜市戸塚区品濃町537-1西武東戸塚S.C.アネックス館6階 a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市戸塚区品濃町537-1西武東戸塚S.C.アネックス館6階" .
+
+ex:神奈川県横浜市戸塚区戸塚町16-1東急プラザ戸塚1F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市戸塚区戸塚町16-1東急プラザ戸塚1F" .
+
+ex:神奈川県横浜市旭区二俣川2丁目50-14ジョイナステラス二俣川2F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市旭区二俣川2丁目50-14ジョイナステラス二俣川2F" .
+
+ex:神奈川県横浜市泉区ゆめが丘31番地2F203 a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市泉区ゆめが丘31番地2F203" .
+
+ex:神奈川県横浜市港北区師岡町700トレッサ横浜南棟2F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市港北区師岡町700トレッサ横浜南棟2F" .
+
+ex:神奈川県横浜市港北区新横浜2-100-45キュービックプラザ新横浜4F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市港北区新横浜2-100-45キュービックプラザ新横浜4F" .
+
+ex:神奈川県横浜市港南区上大岡西1丁目6-1ウィング上大岡3階 a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市港南区上大岡西1丁目6-1ウィング上大岡3階" .
+
+ex:神奈川県横浜市緑区長津田4-1-1東急田園都市線長津田駅2F正面改札外 a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市緑区長津田4-1-1東急田園都市線長津田駅2F正面改札外" .
+
+ex:神奈川県横浜市緑区長津田みなみ台4丁目7-1カエデウォーク長津田1F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市緑区長津田みなみ台4丁目7-1カエデウォーク長津田1F" .
+
+ex:神奈川県横浜市西区みなとみらい3-5-1MARKISみなとみらい2F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市西区みなとみらい3-5-1MARKISみなとみらい2F" .
+
+ex:神奈川県横浜市西区南幸1-5-1ジョイナス横浜B1F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市西区南幸1-5-1ジョイナス横浜B1F" .
+
+ex:神奈川県横浜市西区高島2-16横浜ポルタB1F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市西区高島2-16横浜ポルタB1F" .
+
+ex:神奈川県横浜市都筑区中川中央1-25-1ノースポートモール2F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市都筑区中川中央1-25-1ノースポートモール2F" .
+
+ex:神奈川県横浜市都筑区池辺町4035-1ららぽーと横浜3F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市都筑区池辺町4035-1ららぽーと横浜3F" .
+
+ex:神奈川県横浜市都筑区茅ヶ崎中央5番1号港北TOKYUS.C.A館地下1F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市都筑区茅ヶ崎中央5番1号港北TOKYUS.C.A館地下1F" .
+
+ex:神奈川県横浜市金沢区泥亀1丁目27-1イオン金沢八景ショッピングセンター1F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市金沢区泥亀1丁目27-1イオン金沢八景ショッピングセンター1F" .
+
+ex:神奈川県横浜市青葉区青葉台2-1-1青葉台東急スクエアSouth-22F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横浜市青葉区青葉台2-1-1青葉台東急スクエアSouth-22F" .
+
+ex:神奈川県横須賀市若松町2-30モアーズシティ6F a schema1:PostalAddress ;
+    rdfs:label "神奈川県横須賀市若松町2-30モアーズシティ6F" .
+
+ex:神奈川県海老名市扇町13-1ららぽーと海老名3F a schema1:PostalAddress ;
+    rdfs:label "神奈川県海老名市扇町13-1ららぽーと海老名3F" .
+
+ex:神奈川県相模原市南区古淵2丁目10-1 a schema1:PostalAddress ;
+    rdfs:label "神奈川県相模原市南区古淵2丁目10-1" .
+
+ex:神奈川県相模原市南区相模大野3-8-1相模大野ステーションスクエアA館5F a schema1:PostalAddress ;
+    rdfs:label "神奈川県相模原市南区相模大野3-8-1相模大野ステーションスクエアA館5F" .
+
+ex:神奈川県相模原市緑区大山町1-22アリオ橋本アリオモール1F a schema1:PostalAddress ;
+    rdfs:label "神奈川県相模原市緑区大山町1-22アリオ橋本アリオモール1F" .
+
+ex:神奈川県相模原市緑区橋本6-1-25JR橋本駅構内 a schema1:PostalAddress ;
+    rdfs:label "神奈川県相模原市緑区橋本6-1-25JR橋本駅構内" .
+
+ex:神奈川県茅ヶ崎市元町1-1ラスカ茅ヶ崎2F a schema1:PostalAddress ;
+    rdfs:label "神奈川県茅ヶ崎市元町1-1ラスカ茅ヶ崎2F" .
+
+ex:神奈川県藤沢市南藤沢1-2リエール藤沢3F a schema1:PostalAddress ;
+    rdfs:label "神奈川県藤沢市南藤沢1-2リエール藤沢3F" .
+
+ex:神奈川県藤沢市辻堂神台1-3-1テラスモール湘南4F a schema1:PostalAddress ;
+    rdfs:label "神奈川県藤沢市辻堂神台1-3-1テラスモール湘南4F" .
+
+ex:神奈川県鎌倉市大船1-4-1大船ルミネウィング4F a schema1:PostalAddress ;
+    rdfs:label "神奈川県鎌倉市大船1-4-1大船ルミネウィング4F" .
+
+ex:福井県福井市大和田２丁目1212番地エルパ福井1F a schema1:PostalAddress ;
+    rdfs:label "福井県福井市大和田２丁目1212番地エルパ福井1F" .
+
+ex:福岡県久留米市新合川1-2-1ゆめタウン久留米1F a schema1:PostalAddress ;
+    rdfs:label "福岡県久留米市新合川1-2-1ゆめタウン久留米1F" .
+
+ex:福岡県北九州市八幡東区東田3-2-102イオンモール八幡東1F a schema1:PostalAddress ;
+    rdfs:label "福岡県北九州市八幡東区東田3-2-102イオンモール八幡東1F" .
+
+ex:福岡県北九州市小倉北区浅野1丁目1番1号アミュプラザ小倉西館5F a schema1:PostalAddress ;
+    rdfs:label "福岡県北九州市小倉北区浅野1丁目1番1号アミュプラザ小倉西館5F" .
+
+ex:福岡県北九州市小倉南区上葛原2-14-1サンリブシティ小倉1F a schema1:PostalAddress ;
+    rdfs:label "福岡県北九州市小倉南区上葛原2-14-1サンリブシティ小倉1F" .
+
+ex:福岡県直方市湯野原2-1-1イオンモール直方1F a schema1:PostalAddress ;
+    rdfs:label "福岡県直方市湯野原2-1-1イオンモール直方1F" .
+
+ex:福岡県福岡市中央区地行浜2丁目2番1号MARKIS福岡ももち3F a schema1:PostalAddress ;
+    rdfs:label "福岡県福岡市中央区地行浜2丁目2番1号MARKIS福岡ももち3F" .
+
+ex:福岡県福岡市中央区天神4-3-8ミーナ天神B1F a schema1:PostalAddress ;
+    rdfs:label "福岡県福岡市中央区天神4-3-8ミーナ天神B1F" .
+
+ex:福岡県福岡市博多区博多駅中央街1-1アミュエスト1F a schema1:PostalAddress ;
+    rdfs:label "福岡県福岡市博多区博多駅中央街1-1アミュエスト1F" .
+
+ex:福岡県福岡市博多区那珂6丁目23番1号ららぽーと福岡1階 a schema1:PostalAddress ;
+    rdfs:label "福岡県福岡市博多区那珂6丁目23番1号ららぽーと福岡1階" .
+
+ex:福岡県福岡市東区東浜1-1-1ゆめタウン博多1F a schema1:PostalAddress ;
+    rdfs:label "福岡県福岡市東区東浜1-1-1ゆめタウン博多1F" .
+
+ex:福岡県福津市日蒔野6-16-1イオンモール福津3F a schema1:PostalAddress ;
+    rdfs:label "福岡県福津市日蒔野6-16-1イオンモール福津3F" .
+
+ex:福岡県筑紫野市立明寺434-1イオンモール筑紫野2F a schema1:PostalAddress ;
+    rdfs:label "福岡県筑紫野市立明寺434-1イオンモール筑紫野2F" .
+
+ex:福岡県糟屋郡粕屋町大字酒殿字老ノ木192-1イオンモール福岡1Fウエストコート a schema1:PostalAddress ;
+    rdfs:label "福岡県糟屋郡粕屋町大字酒殿字老ノ木192-1イオンモール福岡1Fウエストコート" .
+
+ex:福岡県行橋市西宮市3丁目8-1ゆめタウン行橋1F a schema1:PostalAddress ;
+    rdfs:label "福岡県行橋市西宮市3丁目8-1ゆめタウン行橋1F" .
+
+ex:福岡県飯塚市菰田西3-6-1ゆめタウン飯塚2F a schema1:PostalAddress ;
+    rdfs:label "福岡県飯塚市菰田西3-6-1ゆめタウン飯塚2F" .
+
+ex:福島県いわき市小名浜字辰巳町79イオンモールいわき小名浜3F a schema1:PostalAddress ;
+    rdfs:label "福島県いわき市小名浜字辰巳町79イオンモールいわき小名浜3F" .
+
+ex:秋田県大仙市和合字坪立177番地イオンモール大曲1F a schema1:PostalAddress ;
+    rdfs:label "秋田県大仙市和合字坪立177番地イオンモール大曲1F" .
+
+ex:秋田県秋田市御所野地蔵田1-1-1イオンモール秋田1F a schema1:PostalAddress ;
+    rdfs:label "秋田県秋田市御所野地蔵田1-1-1イオンモール秋田1F" .
+
+ex:群馬県伊勢崎市西小保方町3681F a schema1:PostalAddress ;
+    rdfs:label "群馬県伊勢崎市西小保方町3681F" .
+
+ex:群馬県前橋市新堀町893ベイシア前橋みなみモール店 a schema1:PostalAddress ;
+    rdfs:label "群馬県前橋市新堀町893ベイシア前橋みなみモール店" .
+
+ex:群馬県太田市石原町81番地イオンモール太田2F a schema1:PostalAddress ;
+    rdfs:label "群馬県太田市石原町81番地イオンモール太田2F" .
+
+<https://23X3138.github.io/HU_F5/3coins_output.ttl#群馬県高崎市八島町222高崎駅ビル・モントレー4F> a schema1:PostalAddress ;
+    rdfs:label "群馬県高崎市八島町222高崎駅ビル・モントレー4F" .
+
+ex:群馬県高崎市棟高町1400番地イオンモール高崎3F a schema1:PostalAddress ;
+    rdfs:label "群馬県高崎市棟高町1400番地イオンモール高崎3F" .
+
+ex:茨城県つくば市研究学園5-19イーアスつくば3F a schema1:PostalAddress ;
+    rdfs:label "茨城県つくば市研究学園5-19イーアスつくば3F" .
+
+ex:茨城県つくば市稲岡66-1イオンモールつくば3F a schema1:PostalAddress ;
+    rdfs:label "茨城県つくば市稲岡66-1イオンモールつくば3F" .
+
+ex:茨城県ひたちなか市新光町35ニューポートひたちなかファッションクルーズ1F a schema1:PostalAddress ;
+    rdfs:label "茨城県ひたちなか市新光町35ニューポートひたちなかファッションクルーズ1F" .
+
+ex:茨城県土浦市上高津367番地イオンモール土浦３F a schema1:PostalAddress ;
+    rdfs:label "茨城県土浦市上高津367番地イオンモール土浦３F" .
+
+ex:茨城県土浦市有明町1-30ペルチ土浦3F a schema1:PostalAddress ;
+    rdfs:label "茨城県土浦市有明町1-30ペルチ土浦3F" .
+
+ex:茨城県水戸市内原2丁目1番地イオンモール水戸内原3F a schema1:PostalAddress ;
+    rdfs:label "茨城県水戸市内原2丁目1番地イオンモール水戸内原3F" .
+
+ex:長崎県長崎市元船町10-1ゆめタウン夢彩都1F a schema1:PostalAddress ;
+    rdfs:label "長崎県長崎市元船町10-1ゆめタウン夢彩都1F" .
+
+ex:長崎県長崎市浜町1番10号有川ビル1F a schema1:PostalAddress ;
+    rdfs:label "長崎県長崎市浜町1番10号有川ビル1F" .
+
+ex:長野県上田市天神3-5-1アリオ上田1F a schema1:PostalAddress ;
+    rdfs:label "長野県上田市天神3-5-1アリオ上田1F" .
+
+ex:長野県松本市中央4-9-51イオンモール松本晴庭1F a schema1:PostalAddress ;
+    rdfs:label "長野県松本市中央4-9-51イオンモール松本晴庭1F" .
+
+ex:青森県上北郡おいらせ町中野平40-1イオンモール下田1F a schema1:PostalAddress ;
+    rdfs:label "青森県上北郡おいらせ町中野平40-1イオンモール下田1F" .
+
+ex:青森県五所川原市大字唐笠柳字藤巻517-1ELM1F a schema1:PostalAddress ;
+    rdfs:label "青森県五所川原市大字唐笠柳字藤巻517-1ELM1F" .
+
+ex:静岡県沼津市東椎路字東荒301-3ららぽーと沼津1F a schema1:PostalAddress ;
+    rdfs:label "静岡県沼津市東椎路字東荒301-3ららぽーと沼津1F" .
+
+ex:静岡県浜松市中央区天王町字諏訪1981-3イオンモール浜松市野2F a schema1:PostalAddress ;
+    rdfs:label "静岡県浜松市中央区天王町字諏訪1981-3イオンモール浜松市野2F" .
+
+ex:静岡県浜松市中央区志都呂二丁目37番1号イオンモール浜松志都呂1階 a schema1:PostalAddress ;
+    rdfs:label "静岡県浜松市中央区志都呂二丁目37番1号イオンモール浜松志都呂1階" .
+
+ex:静岡県浜松市東区天王町字諏訪1981-3イオンモール浜松市野2F a schema1:PostalAddress ;
+    rdfs:label "静岡県浜松市東区天王町字諏訪1981-3イオンモール浜松市野2F" .
+
+ex:静岡県磐田市高見丘1200ららぽーと磐田1F a schema1:PostalAddress ;
+    rdfs:label "静岡県磐田市高見丘1200ららぽーと磐田1F" .
+
+ex:静岡県静岡市葵区鷹匠1-1-1新静岡セノバB1F a schema1:PostalAddress ;
+    rdfs:label "静岡県静岡市葵区鷹匠1-1-1新静岡セノバB1F" .
+
+ex:香川県丸亀市新田町150ゆめタウン丸亀1F a schema1:PostalAddress ;
+    rdfs:label "香川県丸亀市新田町150ゆめタウン丸亀1F" .
+
+ex:香川県綾歌郡綾川町萱原822-1イオンモール綾川1F a schema1:PostalAddress ;
+    rdfs:label "香川県綾歌郡綾川町萱原822-1イオンモール綾川1F" .
+
+ex:香川県高松市三条町608-1ゆめタウン高松2F a schema1:PostalAddress ;
+    rdfs:label "香川県高松市三条町608-1ゆめタウン高松2F" .
+
+ex:高知県高知市秦南町1-4-8イオンモール高知2Ｆ a schema1:PostalAddress ;
+    rdfs:label "高知県高知市秦南町1-4-8イオンモール高知2Ｆ" .
+
+ex:鳥取県西伯郡日吉津村日吉津1160-1イオンモール日吉津西館1F a schema1:PostalAddress ;
+    rdfs:label "鳥取県西伯郡日吉津村日吉津1160-1イオンモール日吉津西館1F" .
+
+ex:鳥取県鳥取市晩稲348イオンモール鳥取北1F a schema1:PostalAddress ;
+    rdfs:label "鳥取県鳥取市晩稲348イオンモール鳥取北1F" .
+
+<https://23X3138.github.io/HU_F5/3coins_output.ttl#鹿児島県姶良市西餅田264‐1イオンタウン姶良西街区2F> a schema1:PostalAddress ;
+    rdfs:label "鹿児島県姶良市西餅田264‐1イオンタウン姶良西街区2F" .
+
+ex:鹿児島県鹿児島市中央町1-1アミュプラザ鹿児島本館1F a schema1:PostalAddress ;
+    rdfs:label "鹿児島県鹿児島市中央町1-1アミュプラザ鹿児島本館1F" .
+
+ex:鹿児島県鹿児島市東開町7イオンモール鹿児島2F a schema1:PostalAddress ;
+    rdfs:label "鹿児島県鹿児島市東開町7イオンモール鹿児島2F" .
+
